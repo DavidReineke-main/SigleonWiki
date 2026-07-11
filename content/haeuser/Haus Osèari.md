@@ -4,12 +4,6 @@ tags:
 published: true
 ---
     >
->2. Die Toten werden ins Nirvana geschickt wo sie ihre Erlösung finden. 
-    >
->3. Der Eintritt ins Nirvana ist nur mit einer Erlaubigung der Kirche möglich. 
-    >
->4. Die Häuser dienen immer dem Volk und das Volk dient dem Haus 
-    >
 >
 >
 >Sind gezielt auf der Suche nach einem Heilmittel der Krankheit 
