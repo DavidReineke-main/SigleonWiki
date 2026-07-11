@@ -63,6 +63,5 @@ Bekannte Magier:
 [[Neril Oniel Fernheit]] verstorben
 Oberster Magister [[Ainstadt Arkanova]]
 
----
 Haus Arkanova Versucht dem Einfluss der Hände zu ändern einen neuen Weg für alle beschreiten zu lassen. Hunger danach sich neuem zu widmen.
 
