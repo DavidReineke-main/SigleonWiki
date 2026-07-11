@@ -110,3 +110,6 @@ Offentage
 ___
 Nach den 9 Monaten wird ein Neuer Werk Zyklus gezählt.
 
+Wir schreiben den Werk Zyklus 1977
+
+Ab dem Werk Zyklus 0 wurde die Kalenderzählung auf diese Weise eingeführt.
