@@ -7,4 +7,6 @@ Notiere dir etwas oder, [[Neuer Link|erstelle einen neuen Link]], oder probiere 
 Das ist %%HIDDEN%%
 
 Ein teil von dem Satz ist {{REDACTED}}
+
+Der Anführer hieß {{ Darth Vader }}
 Wenn du soweit bist kannst du diese Seite löschen und den Vault ganz nach deinen Wünschen und Vorstellungen gestalten.
