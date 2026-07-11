@@ -1,0 +1,90 @@
+---
+tags:
+  - Immersion
+published: true
+---
+
+Die Umdrehung des Lichtes [[Norija]] einmal um [[Sigleon]] herum. Während dieser Zeit ist es heiß und von viel Licht umhüllt es durchwandert die [[Siegelzyklus]] Farben Lila [[Schleierstunden]] 20 Stunden, Orange [[Rounstunden]] 36 Stunden, Grün 30 Stunden [[Tharliststunden]] danach nimmt Norija eine weitere Umlaufbahn außerhalb Sigelons welche die dunklen und kalten Tage einläutet die [[Verbannungzyklus]] dieser Zyklus durchwandert die Farben Türkis [[Kalypsstunden]] 24 Stunden, Rot [[Rivalstunden]] 28 Stunden Schwarz [[Nullstunden]] 6 Stunden Blau [[Fernstunden]] 28 Stunden danach beginnt es wieder.
+
+Einfaches Mathe jeder Zyklus 86 Stunden was 3 Tage und 14 Stunden sind x2 = 7 Tage 4 Stunden
+____
+
+Jedes Areal hat den Auftrag 4 Zyklus in denen Sie Veranstalter sind in dieser Zeit sollen sie sich um Erholung und Wohltun der Stadt und der Bewohner sorgen etwas von ihren Werken abgeben. Dafür gibt es verschiedene Fest tage und Zeremonien die abgehalten werden. 
+
+Die Zählung des Kalenders auf diese Weise beginnt mit WZ 0
+
+___
+Vyruh (1-28).01
+[[Calypspass]]
+
+Feiertage
+Schriftmeer
+Rekapitulieren von Informationen über die Verborgenen. Was an Geschichte geblieben ist oder neu entdeckt wurden.
+
+Verbannungstag 
+Lehren über unseren Weg
+Geschichte Ausrichtung der Stadt Weisung des richtigen Weges
+
+___
+Hersa (1-28).02
+[[Mamuria]]
+
+Klang der Pfade
+Lieder Gesang 
+
+Ambrossia 
+Sauffest
+___
+Cytnaar (1-28).03
+[[Katalos]]
+
+
+
+
+___
+Mazken (1-28).04
+[[Herdel]]
+verschwinde nun kehre wieder mit mehr
+Feen Feiertag. Verstecke etwas von dir bei einen Freund. Tasche, Haus. Er muss herausfinden von wem das Geschenk kommt.
+
+___
+Faron (1-28).05
+[[Oran]] 
+
+Norija Fest Stunden
+Licht empfangen auf einer Sonnenscheibe.
+
+___
+Nirva (1-28).06
+[[Sündnebel]]
+
+Der Zyklus bedingt das Nirvana sich weit ausbreitet und die Stadt noch mehr in Gefahr steht. Weshalb viele Sicherheitsmaßnahmen ergriffen werden und [[Nebura]] vermehrt gesponsert werden. 
+
+Ehr Nebura
+Auszeichnung für Nebeltaucher für Erfolge den Nirvana zu erforschen. Erhalten ein Werk spizelle angefertigt aus dem [[Haus Osèari]] 
+
+____
+Uräon (1-28).07 
+[[Kry Pfahl]]
+
+Seelenlicht Gala
+Prominente und Adel aus ganz Sigleon verkünden neue Erfolge oder Projekte die Unterstützung benötigen und ein Netzwerk aufbauen.
+
+___
+Arka (1-28).08
+[[Hexflur]]
+
+Schimmernacht
+Das Seelenlicht durchflutet die Umgebung zu gegebener Zeit. Dadurch stehen viele Geister erweckt. Es werden lichter ausgesendet um den Toten den Weg zu weisen durch das Nirvana das sie die Freiheit erleben hinter den Nebel zu blicken. Etwas im Tod zu finden was uns als Lebenden verwehrt wird. 
+
+___
+Terla (1-28).09
+[[Izenfest]]
+
+Kammerfest
+
+Offentage
+
+___
+Nach den 9 Monaten wird ein Neuer Werk Zyklus gezählt.
+
