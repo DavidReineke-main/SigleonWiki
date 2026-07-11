@@ -27,7 +27,7 @@ danach nimmt [[Norija]] eine weitere Umlaufbahn außerhalb Sigelons welche die d
 Einfaches Mathe jeder Zyklus 86 Stunden was 3 Tage und 14 Stunden sind x2 = 7 Tage 4 Stunden
 ____
 
-Jedes Areal hat den Auftrag 4 Zyklus in denen Sie Veranstalter sind in dieser Zeit sollen sie sich um Erholung und Wohltun der Stadt und der Bewohner sorgen etwas von ihren Werken abgeben. Dafür gibt es verschiedene Fest tage und Zeremonien die abgehalten werden. 
+Jedes Areal hat den Auftrag einem Quartal ein Veranstalter sind in dieser Zeit sollen sie sich um Erholung und Wohltun der Stadt und der Bewohner sorgen etwas von ihren Werken abgeben. Dafür gibt es verschiedene Fest tage und Zeremonien die abgehalten werden. 
 
 Die Zählung des Kalenders auf diese Weise beginnt mit WZ 0
 
