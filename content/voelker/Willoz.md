@@ -24,7 +24,3 @@ Größter Streitpunkt dieses Volkes sind Schuhe zu tragen auf ihr Äußeres eine
 
 ___
 
-Nestral. Diese Winzlinge sind Hand in Hand mit der Natur gelaufen und haben sich auf den Pakt der Feen komplett eingelassen. Sie sind hölzerne kleine Wesen die Masken anfertigen. Unter ihren fertigkeiten sind sie im Besitz ins Nix zu fallen da sie sich von allen gelöst haben.
-Fletching = Befiederter Pfeil Ranger Halblinge
-
-
