@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: davidreineke-main.github.io/SW5ECampaignPublic
+  baseUrl: davidreineke-main.github.io/SignleonWiki
   ignorePatterns:
     - private
     - templates
