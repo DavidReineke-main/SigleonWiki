@@ -11,4 +11,3 @@ Sind darauf bedacht einen Austausch unter dem Volk zu schaffen.
 
 Die [[Druiden]] verbinden sich mit der Stadt und sehen dieses Urbane Gebiet als Lebenden Organismus. Sie setzen sich dafür ein die Resistenz und Verteidigung zu stärken. Sie sind die stumme Stimme der Umgebung. Sie schaffen Raum lassen gedeihen damit [[Sigleon]] ewig sich nähren kann.
 
-
