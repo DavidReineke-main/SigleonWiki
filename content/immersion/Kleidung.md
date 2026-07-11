@@ -19,15 +19,6 @@ Mittlere Schicht nutzt Pilzleder um Übermäntel herzustellen
 Wechselpilz= Alles gleiche Art von Pilz nur verschiedene Reaktion. Geschulte Diebe wissen Reaktion zu erzeugen und Farbe zu wechseln.
 
 
-==Tierprodukte==
-Daunengewand
-Magie hält Federn in Form
-Rotes Narben Leder
-Reaktion Schadenverminderung PB x W8 = Narbe
-Stern Siegel Umhang
-Reaktion Anziehungskraft ausrichten
-Britzfell
-Niewest Leder
 
 
 ___
