@@ -13,11 +13,14 @@ Jedes Areal hat den Auftrag 4 Zyklus in denen Sie Veranstalter sind in dieser Ze
 
 Die Zählung des Kalenders auf diese Weise beginnt mit WZ 0
 
+1 Monat
+2 Region zuständig als Veranstalter Festtage
+3 Festtage
 ___
-Vyruh (1-28).01
-[[Calypspass]]
+1Vyruh (1-28).01
+2[[Calypspass]]
 
-Feiertage
+3Feiertage
 Schriftmeer
 Rekapitulieren von Informationen über die Verborgenen. Was an Geschichte geblieben ist oder neu entdeckt wurden.
 
