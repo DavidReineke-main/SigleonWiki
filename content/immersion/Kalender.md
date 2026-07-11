@@ -17,7 +17,7 @@ published: true
 | ------------- | ------- | ------------ |
 | Kalypsstunden | 24      | Türkis       |
 | Rivalstunden  | 28      | Rot          |
-|               |         | Grün         |
+|               |         |              |
 
 Die Umdrehung des Lichtes [[Norija]] einmal um [[Sigleon]] herum. Während dieser Zeit ist es heiß und von viel Licht umhüllt es durchwandert die [[Siegelzyklus]] Farben Lila [[Schleierstunden]] 20 Stunden, Orange [[Rounstunden]] 36 Stunden, Grün 30 Stunden [[Tharliststunden]] danach nimmt Norija eine weitere Umlaufbahn außerhalb Sigelons welche die dunklen und kalten Tage einläutet die [[Verbannungzyklus]] dieser Zyklus durchwandert die Farben Türkis [[Kalypsstunden]] 24 Stunden, Rot [[Rivalstunden]] 28 Stunden Schwarz [[Nullstunden]] 6 Stunden Blau [[Fernstunden]] 28 Stunden danach beginnt es wieder.
 
