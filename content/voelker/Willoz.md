@@ -14,7 +14,7 @@ Das Volk des Handels hat ein sehr Flexibles Wesen welches sich anmessend seiner 
 Medizinisch haben sie ein Mutagen namens Morphine = Hormone der I´lls welche sie langsam wandlungsfähig machen.
 
 Negative Merkmale
-Aus Neid werden sie grün. Klauen sie bekommen sie längere Finger. Hören sie Gesprächen zu die Ihnen nichts angehen sind sie Spitzohren. 
+Aus Neid werden sie grün. Klauen sie bekommen sie längere Finger. Hören sie Gesprächen zu die Ihnen nichts angehen sind sie Spitzohren.
 
 Positive Merkmale
 Sind sie freundlich haben sie ein Rundes Gesicht. Hegen sie gute Beziehung zu Zwergen bekommt ihre Nase einen Roten stich. Genießen sie das Licht [[Norija]] entspringen Sommersprossen auf in entsprechende Farbpunkte auf ihrer Haut.
