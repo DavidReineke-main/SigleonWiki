@@ -3,7 +3,7 @@ tags:
   - Immersion
 published: true
 ---
-Siegelzyklus 86 Stunden
+==Siegelzyklus== 86 Stunden
 
 | Name der Zeit   | Stunden | Farbe Norija |
 | --------------- | ------- | ------------ |
@@ -11,13 +11,13 @@ Siegelzyklus 86 Stunden
 | Rounstunden     | 36      | Orange       |
 | Tharliststunden | 30      | Grün         |
 
-Verbannungszyklus
+==Verbannungszyklus== 86 Stunden
 
-| Name der Zeit   | Stunden | Farbe Norija |
-| --------------- | ------- | ------------ |
-| Kalypsstunden   | 24      | Türkis       |
-| Rivalstunden    |         | Orange       |
-| Tharliststunden | 30      | Grün         |
+| Name der Zeit | Stunden | Farbe Norija |
+| ------------- | ------- | ------------ |
+| Kalypsstunden | 24      | Türkis       |
+| Rivalstunden  | 28      | Rot          |
+|               |         | Grün         |
 
 Die Umdrehung des Lichtes [[Norija]] einmal um [[Sigleon]] herum. Während dieser Zeit ist es heiß und von viel Licht umhüllt es durchwandert die [[Siegelzyklus]] Farben Lila [[Schleierstunden]] 20 Stunden, Orange [[Rounstunden]] 36 Stunden, Grün 30 Stunden [[Tharliststunden]] danach nimmt Norija eine weitere Umlaufbahn außerhalb Sigelons welche die dunklen und kalten Tage einläutet die [[Verbannungzyklus]] dieser Zyklus durchwandert die Farben Türkis [[Kalypsstunden]] 24 Stunden, Rot [[Rivalstunden]] 28 Stunden Schwarz [[Nullstunden]] 6 Stunden Blau [[Fernstunden]] 28 Stunden danach beginnt es wieder.
 
