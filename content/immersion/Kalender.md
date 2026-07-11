@@ -20,9 +20,9 @@ published: true
 | Nullstunden   | 6       | Schwarz      |
 | Fernstunden   | 28      | Blau         |
 
-Zuerst die Siegelzyklus des Lichtes [[Norija]] einmal um [[Sigleon]] herum. Während dieser Zeit ist es heiß und von viel Licht umhüllt es durchwandert die [[Siegelzyklus]] zuerst die [[Schleierstunden]] danach die[[Rounstunden]] und zuletzt die[[Tharliststunden]].
+Zuerst der Siegelzyklus des Lichtes [[Norija]] einmal um [[Sigleon]] herum. Während dieser Zeit ist es heiß und von viel Licht umhüllt es durchwandert die [[Siegelzyklus]] zuerst die [[Schleierstunden]] danach die[[Rounstunden]] und zuletzt die[[Tharliststunden]].
 
-danach nimmt Norija eine weitere Umlaufbahn außerhalb Sigelons welche die dunklen und kalten Tage einläutet die [[Verbannungzyklus]] dieser Zyklus durchwandert die [[Kalypsstunden]] wandert in die [[Rivalstunden]] wird dann verborgen die Schwarzen [[Nullstunden]] bevor er zurückreise in ein Blaues Farbschema zurückkehrt [[Fernstunden]] danach beginnt es wieder bei dem Siegelzyklus.
+danach nimmt [[Norija]] eine weitere Umlaufbahn außerhalb Sigelons welche die dunklen und kalten Tage einläutet die [[Verbannungzyklus]] dieser Zyklus durchwandert die [[Kalypsstunden]] wandert in die [[Rivalstunden]] wird dann verborgen die Schwarzen [[Nullstunden]] bevor er zurückreise in ein Blaues Farbschema zurückkehrt [[Fernstunden]] danach beginnt es wieder bei dem Siegelzyklus.
 
 Einfaches Mathe jeder Zyklus 86 Stunden was 3 Tage und 14 Stunden sind x2 = 7 Tage 4 Stunden
 ____
