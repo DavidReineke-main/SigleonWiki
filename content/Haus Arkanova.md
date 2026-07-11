@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+
 ==Philosophie==
 Alles Wissen wird geleitet und geteilt mit denen die sich würdig erweisen. Vor den unwürdigen wird das Wissen verschlossen auf das sie nicht Handeln ohne ihre Konsequenzen hervor zu sehen.
 Nirvana ist was es ist eine einfache Wand aus Nebel. Wir werden gezielte Forschungen anstellen womit wir weiter erkennen wie wir damit umgehen werden in welchen Aspekten wir es zurückdrängen oder weiter einkehren lassen ist dann in Zukunft zu sehen.
@@ -33,7 +34,6 @@ Blutlinie des Hauses
 Blaues Blut durch die Venen fließt Magie
 Magie die den Vorstellungen entspringt = Qual diese zurückzuhalten
 
----
 
 "Aar'solvenum"
 
