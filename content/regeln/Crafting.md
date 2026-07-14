@@ -60,12 +60,12 @@ Mimikstein
 
 
 
-Tränke herstellen
-[[Wochen Aktivität]] 
+Tränke herstellen = Alchemie Werkzeug
+([[Wochen Aktivität]] )
 Wenn benötigte Ressourcen und Rezept = DC 14 
-Alchemie Werkzeug
-Wurf kein Erfolg = schwache Instabilität
-Wurf unter 10 Erfolg = starke Instabilität
+
+Wurf Misserfolg = schwache Instabilität
+-10 Misserfolg = starke Instabilität
 
 Instabilität (Nebeneffekte)
 
