@@ -3,17 +3,17 @@ tags:
   - Regeln
 published: true
 ---
->Magie Potential]
+>[Magie Potential]
 > Zauberslots
 > Feengold
 > Kybernetische Ladung
 > Geladene Magische Atmosphäre
 > Springsteine
 > Blütenstab
-
+___
 > [Essenz]
 destilierte Essenz ?
-
+___
 
 
 > [Substanz Pflanze]
@@ -34,6 +34,7 @@ destilierte Essenz ?
 > Schauberschwämmchen
 > Rottel
 
+___
 
 > [Substanz Tier]
 >Schweif des Seeteufels
@@ -49,6 +50,7 @@ destilierte Essenz ?
 >Mirray Krone
 >Klauen
 
+___
 
 >[Substanz Stein]
 Obsidian
@@ -57,8 +59,7 @@ Kleestein
 Golemlehm
 Mimikstein
 
-
-
+___
 
 Tränke herstellen = Alchemie Werkzeug
 ([[Wochen Aktivität]] )
