@@ -3,7 +3,7 @@ tags:
   - Regeln
 published: true
 ---
-(Barbar, Kämpfer, Mönch, Schurke, Waldläufer, Paladin, )
+(Barbar, Kämpfer, Mönch, Paladin, Schurke, Waldläufer, Paladin, Magieschmied)
 Rolle beim auf Leveln den Trefferwürfel 2x verrechne beide Ergebnisse und im nachhinein deine Konstitution. 
 
 du kennst 2 Manöver vom Kampfmeister
