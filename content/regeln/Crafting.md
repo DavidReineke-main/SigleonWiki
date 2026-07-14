@@ -70,18 +70,18 @@ Wurf unter 10 Erfolg = starke Instabilität
 Instabilität (Nebeneffekte)
 
 schwach
-keine Reaktion solange Effekt anhält
-2 W6 Giftschaden 
-Erkennung von Gefahren Funktion ausgesetzt
-Betrunken = -1W6 auf Fertigkeitswürfe 2 Stunde Abklingzeit
-1 Tag durchfall
-Vergessenheit dein Kurzzeitgedächtnis funktioniert nicht
+-keine Reaktion solange Effekt anhält
+-2 W6 Giftschaden 
+-Erkennung von Gefahren Funktion ausgesetzt
+-Betrunken = -1W6 auf Fertigkeitswürfe 2 Stunde Abklingzeit
+-1 Tag durchfall
+-Vergessenheit dein Kurzzeitgedächtnis funktioniert nicht
 
 stark
-Versteinerung (Todesrettungswürfe) Kondition 10 schaffen um nicht zu Stein zu erstarren.
+-Versteinerung (Todesrettungswürfe) Kondition 10 schaffen um nicht zu Stein zu erstarren.
 Verlangsamt solange anhält.
-W6 würfeln Anfang der Runde bei einer 5 oder 6 erbrechen eine Runde keine Aktion.
-Vergiftet solange Effekt anhält
-Schwindel solange der Effekt anhält hälfte der Bewegung -1W4 auf Angriffswürfe
-Fluch Schaden gegen dich ist um 1W8 erhöht
+-W6 würfeln Anfang der Runde bei einer 5 oder 6 erbrechen eine Runde keine Aktion.
+-Vergiftet solange Effekt anhält
+-Schwindel solange der Effekt anhält hälfte der Bewegung -1W4 auf Angriffswürfe
+-Fluch Schaden gegen dich ist um 1W8 erhöht
 
