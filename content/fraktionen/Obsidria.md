@@ -16,3 +16,5 @@ Freie Fläche für freien Verstand. Den [[Zwerge]] ist es erlaubt das Gestein zu
 Die Hämmer und Meißel sind die Bewaffnung der Zwerge. Sie haben [[Sigleon]] den Raum gegeben zu Leben. Durch das freischlagen von Höhlen konnte das Leben sich immer mehr vermehren darauf sind sie Stolz. Daher entsteht ein großer Interessen Konflikt über die das Rechtmäßige Gebiet der Zwerge. Sie erheben Rechtsanspruch an [[Hexflur]].
 
 ___
+
+
