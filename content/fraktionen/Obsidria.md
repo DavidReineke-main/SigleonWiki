@@ -3,7 +3,7 @@ tags:
   - Fraktionen
 published: true
 ---
-Obsidria ist die Festung des Zwergentum. In seinem Hof wird die Macht unter 5 Familien geteilt jede dieser Familien brachte Fortschritt zu der Zwergentum.
+Obsidria ist die Festung des Zwergentum. In seinem Hof wird die Macht unter 5 Familien geteilt jede dieser Familien brachte Fortschritt zu der Zwergentum. Jeder Zwerg sieht sich zugehörig einer d
 
 [[Grun´dura]]
 [[Trümersglut]]
