@@ -58,6 +58,8 @@ Springsteine
 Kleestein
 Golemlehm
 Mimikstein
+Queckstein
+Portalgeode
 
 ___
 
