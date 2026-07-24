@@ -36,7 +36,7 @@ ___
 
 ___
 
-> [Substanz Tier]
+> [Substanz Bestien]
 >Schweif des Seeteufels
 >Schleim (gelb, grün, blau, schwarz)
 >Klar Honig
