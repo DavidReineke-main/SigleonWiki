@@ -25,10 +25,7 @@ Norjafang Weizen
 ==Flisch==
 Es gibt keinen Unterschied zwischen Fleisch und Fisch 
 
-Farkel,
-Scharlachflisch,
-Weißflisch
-roh Flisch
+Farkel, Scharlachflisch, Weißflisch, roh Flisch
 
 _______
 #### Getränke
@@ -37,20 +34,15 @@ Kaffee
 Tee: Zarpfentee, Marpfeltee, Dorntee, 
 
 Saft / Limo
-Marenblausaft, Marendero, Bris Fizz
+Marenblausaft, Marendero, Bris Fizz, Marpfelsaft
 
+Cocktails: Marenero
 
-Cocktails
-Marenero
+Biere: Walsch
 
-Biers
-Walsch
+Wein: Blauwein,
 
-Wein
-Blauwein,
-
-Stark
-Morencerlo
+Spiritousen: Morencerlo, Kaktus Schnaps
 
 ____
 Verwertung von allen Material das zu Verfügung ist.
