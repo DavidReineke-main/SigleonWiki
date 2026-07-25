@@ -69,7 +69,7 @@ Hexflur
 Himmelsobst
 
 Herdel
-Bestienfleisch, Seegemüse
+Bestienflisch, Seegemüse
 
 Sündnebel
 Alles auffindbar (kleine Bestände)
