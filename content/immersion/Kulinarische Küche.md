@@ -34,8 +34,7 @@ _______
 #### Getränke
 
 Kaffee
-Tee
-Zarpfentee, Marpfeltee, Dorntee,   
+Tee: Zarpfentee, Marpfeltee, Dorntee, 
 
 Saft / Limo
 Marenblausaft, Marendero, Bris Fizz
@@ -55,11 +54,9 @@ Morencerlo
 
 ____
 Verwertung von allen Material das zu Verfügung ist.
-
 Optimierung auf Effizienz was das Gericht dir geben soll
-
 ___
-Gerichte
+==Gerichte==
 
 Quackel Fackel
 Teigrollen
@@ -83,7 +80,7 @@ Herdel
 Bestienfleisch, Seegemüse
 
 Sündnebel
-Alles auffindbar (kleiner Bestände)
+Alles auffindbar (kleine Bestände)
 
 Oran
 Norijafang Weizen
