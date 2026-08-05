@@ -80,4 +80,6 @@ level 17-20 7x
 
 ==Kommunikation==
 
-aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel
+wechsel wenn du gewillt bist eine Fertigkeit auf deinem Character Cheat
+
+aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind
