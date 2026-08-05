@@ -76,7 +76,7 @@ level 9-12 5x
 level 13-16 6x
 level 17-20 7x
 
-(Training wird passive auch erworben durch Meilensteine erreichen)
+(Training wird auch passive auch erworben durch Meilensteine erreichen)
 
 ==Kommunikation==
 
