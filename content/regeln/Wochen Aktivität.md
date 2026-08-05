@@ -41,7 +41,10 @@ Legendäres Item 5x
 
 ==Auskundschaften==
 
-Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen, Bestie erforschen
+Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen,
+
+Bestie erforschen
+Mirvana erforschen
 
 | Start Gebiet<br>Sündnebel Eingang | gewöhnliches Mirvana   |
 | --------------------------------- | ---------------------- |
