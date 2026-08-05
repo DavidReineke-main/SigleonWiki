@@ -3,12 +3,7 @@ tags:
   - Regeln
 published: true
 ---
-Down Time
-
-==Ausruhen==
-Jede Aktivität nur 3x durchführbar bevor man Ausruhen muss
-
-==Job==
+==Job (Einkommen)==
 
 Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde 
 
@@ -43,10 +38,6 @@ Ungewöhnliches Item 2x
 Seltenes Item 3x
 sehr Seltenes Item 4x
 Legendäres Item 5x
-
-==Bastion==
-
-Basis Interaktion
 
 ==Auskundschaften==
 
