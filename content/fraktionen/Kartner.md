@@ -4,7 +4,7 @@ tags:
 published: true
 ---
 
-Diese Organisation gehört zu der Eigenitative der Stadt. Dem [[Netzwerk Volksruh]].
+Diese Organisation gehört zu der Eigenitative der Stadt. Dem [[Kooperation 9]].
 
 Die Kartner sind Ermittler. Sie sind dafür zuständig die Kriminalfälle aufzusuchen und zu ermitteln. Um das Volk bei Delikten eine Anlauf stelle zu geben. In der ersten Zeit ihrer Entstehung verzeichneten sie verschiedene Routen durch die Stadt und kamen aufgrund dessen zu ihren Namen.
 Sie sind keine kleinen einzelnen Profi Ermittler sondern eine Masse von Arbeitskräften die Emsig Informationen von überall zusammentragen.
