@@ -64,7 +64,7 @@ Wechsel eines Zaubers, Zaubertricks
 
 Zauberklassen = Training
 
-Forsche einen Begriff neuen dir Unbekannten Begriff oder Person nach. Bei einem Nachforschen Check werden dir Informationen zu deiner Nachforschung d
+Erforsche einen dir neuen Begriff oder einer Person. Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart.
 
 
 ==Training==
