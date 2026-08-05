@@ -22,9 +22,9 @@ Job aufstieg
 | 200 Goldcredits | 25 = x5               |
 | 500 Goldcredits | 30 = x6               |
 
-==Herstellung, Wissenschaft, Werk==
+==Werksschmiede==
 
-Voraussetzung benötigt Material
+(Voraussetzung benötigt Material)
 
 Tränke herstellen
 
