@@ -59,10 +59,12 @@ Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen
 | ???                               | Legendäres Mirvana     |
 
 
-==Wissen==
+==Forschung==
 Wechsel eines Zaubers, Zaubertricks
 
 Zauberklassen = Training
+
+Forsche einen Begriff den ihr herausgefunden habt nach. 
 
 
 ==Training==
