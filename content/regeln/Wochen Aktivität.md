@@ -21,11 +21,11 @@ Job aufstieg
 
 | Basis Einkommen | Würfel Multipliakator |
 | --------------- | --------------------- |
-| 20 Gold         | 10 = x2               |
-| 50 Gold         | 15 = x3               |
-| 100 Gold        | 20 = x4               |
-| 200 Gold        | 25 = x5               |
-| 500 Gold        | 30 = x6               |
+| 20 Goldcredits  | 10 = x2               |
+| 50 Goldcredits  | 15 = x3               |
+| 100 Goldcredits | 20 = x4               |
+| 200 Goldcredits | 25 = x5               |
+| 500 Goldcredits | 30 = x6               |
 
 ==Crafting, Wissenschaft==
 
