@@ -49,7 +49,7 @@ Basis Interaktion
 
 ==Auskundschaften==
 
-Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen
+Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen, Bestie erforschen
 
 | Start Gebiet<br>Sündnebel Eingang | gewöhnliches Mirvana   |
 | --------------------------------- | ---------------------- |
