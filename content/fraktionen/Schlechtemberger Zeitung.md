@@ -3,7 +3,7 @@ tags:
   - Fraktionen
 published: true
 ---
-operiert unter dem [[Kooperation 9]]
+operiert unter dem [[Förderation Z]]
 
 Wissen für alle
 
