@@ -27,16 +27,17 @@ Job aufstieg
 | 200 Goldcredits | 25 = x5               |
 | 500 Goldcredits | 30 = x6               |
 
-==Crafting, Wissenschaft==
+==Herstellung, Wissenschaft, Werk==
 
 Voraussetzung benötigt Material
 
-Tränke herstellen, Körper Modifikation
+Tränke herstellen
 
+Körper Modifikation
 
-==Werk==
-Voraussetzung benötigt Material
+Eigene Forschung vorantreiben
 
+Werk (Magische Items)
 Gewöhnliches Item 1x
 Ungewöhnliches Item 2x
 Seltenes Item 3x
