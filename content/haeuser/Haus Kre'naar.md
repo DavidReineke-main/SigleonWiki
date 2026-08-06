@@ -22,7 +22,7 @@ Um den Rang aufzusteigen musst du dich beweisen in der Arena für jeden Aufstieg
 
 
 Berühmtheiten aus dem Haus
-[[2 Adeon Jagner]]
+[[Adeon Jagner]]
 [[Jonopher Jorland]]
 [[Alber Torbruch]] verstorben
 Führungsperson: [[1 Vyrrant Kre'naar]]
