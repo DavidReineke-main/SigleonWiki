@@ -25,6 +25,6 @@ Berühmtheiten aus dem Haus
 [[Adeon Jagner]]
 [[Jonopher Jorland]]
 [[Alber Torbruch]] verstorben
-Führungsperson: [[Vyrrant Kre'naar]]
+Führungsperson: [[1 Vyrrant Kre'naar]]
 
 ___
