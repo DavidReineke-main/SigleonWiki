@@ -29,7 +29,7 @@ Kurator = Entwickle ein neues Studiengebiet
 
 
 Bekannte Magier:
-[[Norhelm Niewal]]
+[[Norhelm Niewald]]
 [[Neril Oniel Fernheit]] verstorben
 Oberster Magister [[Ainstadt Arkanova]]
 
