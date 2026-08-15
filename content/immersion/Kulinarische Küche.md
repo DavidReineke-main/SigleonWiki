@@ -13,12 +13,18 @@ Zwiebeltang = Zwiebel (Seetang = Salz)
 Korallauch = Lauch
 Capacidia = Chilli (Chilligewürz)
 
+___
+
 ==Himmelsobst==
 Obere Distrikte. Wachsen an der Decke. Plantagen sind große Auffangnetze, Mirrays zum ernten nutzen
 
 Marpfel = Apfel (Säure)
 Marende = Orange (süß,sauer)
 Zarpfen = Tannenzapfen (Bitter)
+Rabane = Banane
+Qualfrucht = ?
+
+___
 
 Norjafang Weizen
 
