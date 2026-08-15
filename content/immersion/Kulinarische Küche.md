@@ -9,9 +9,10 @@ published: true
 In unteren Distrikten zu finden. Muss starke ausschalen haben damit Geschmack nicht ausgewaschen wird.
 
 Murfel = Kartoffeln (Kartoffelstärke)
-Zwiebeltang = Zwiebel (Seetang = Salz)
+Zwiebeltang = Zwiebel + (Seetang = Salz)
 Korallauch = Lauch
 Capacidia = Chilli (Chilligewürz)
+Lumaten = Tomaten
 
 ___
 
