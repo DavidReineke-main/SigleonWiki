@@ -55,3 +55,4 @@ Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff
 | Ungewöhnlich |               |                 |
 | Selten       |               |                 |
 | sehr selten  |               |                 |
+
