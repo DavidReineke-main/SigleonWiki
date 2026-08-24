@@ -44,3 +44,7 @@ Du erhälst Trefferpunkte zurück in höhe der Wertigkeit des Heilungstranks.
 | Selten       | 8 W4 +8   |
 | sehr selten  | 10 W4 +20 |
 ___
+
+Giftphiole
+gewöhnlich
+Vesra Gift kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden.  
