@@ -47,4 +47,11 @@ ___
 
 Giftphiole
 gewöhnlich
-Vesra Gift kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden.  
+Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff der mit dieser Waffe trifft macht zusätzlich Giftschaden.
+
+| Wertigkeit   | Art des Gifts | Schaden, Effekt |
+| ------------ | ------------- | --------------- |
+| Gewöhnlich   | Vesra Gift    | 2W6 Gift        |
+| Ungewöhnlich |               |                 |
+| Selten       |               |                 |
+| sehr selten  |               |                 |
