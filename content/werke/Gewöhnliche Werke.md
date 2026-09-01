@@ -49,10 +49,10 @@ Giftphiole
 gewöhnlich
 Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff der mit dieser Waffe trifft macht zusätzlich Giftschaden.
 
-| Wertigkeit   | Art des Gifts | Schaden, Effekt |
-| ------------ | ------------- | --------------- |
-| Gewöhnlich   | Vesra Gift    | 2W6 Gift        |
-| Ungewöhnlich |               |                 |
-| Selten       |               |                 |
-| sehr selten  |               |                 |
+| Wertigkeit   | Art des Gifts | Schaden, Effekt            |
+| ------------ | ------------- | -------------------------- |
+| Gewöhnlich   | Vesra Gift    | 2W6 Gift                   |
+| Ungewöhnlich |               | 4 W6, Vergiftung DC Kon 14 |
+| Selten       |               |                            |
+| sehr selten  |               |                            |
 
