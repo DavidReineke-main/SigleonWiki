@@ -49,10 +49,10 @@ Giftphiole
 gewöhnlich
 Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff der mit dieser Waffe trifft macht zusätzlich Giftschaden.
 
-| Wertigkeit   | Art des Gifts | Schaden, Effekt            |
-| ------------ | ------------- | -------------------------- |
-| Gewöhnlich   | Vesra Gift    | 2W6 Gift                   |
-| Ungewöhnlich |               | 4 W6, Vergiftung DC Kon 14 |
-| Selten       |               | 8W6 Incapicitated          |
-| sehr selten  |               |                            |
+| Wertigkeit   | Art des Gifts     | Schaden, Effekt            |
+| ------------ | ----------------- | -------------------------- |
+| Gewöhnlich   | Vesra Gift        | 2W6 Gift                   |
+| Ungewöhnlich | Spinnen Gift      | 4 W6, Vergiftung DC Kon 14 |
+| Selten       | Mottenwyvern Gift | 8W6 Incapicitated          |
+| sehr selten  |                   | 12 W6 Paralyzed            |
 
