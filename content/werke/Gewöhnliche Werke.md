@@ -18,7 +18,7 @@ ___
 
 Zwillingsstein
 Gewöhnlich
-schreibe in den Stein eine Nachricht sein Zwillingspaar lässt diese Nachricht sichtbar werden.
+schreibe in den Stein eine Nachricht, sein Zwillingspaar lässt diese Nachricht sichtbar werden.
 
 ___
 
@@ -53,6 +53,6 @@ Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff
 | ------------ | ----------------- | -------------------------- |
 | Gewöhnlich   | Vesra Gift        | 2W6 Gift                   |
 | Ungewöhnlich | Spinnen Gift      | 4 W6, Vergiftung DC Kon 14 |
-| Selten       | Mottenwyvern Gift | 8W6 Incapicitated          |
-| sehr selten  |                   | 12 W6 Paralyzed            |
+| Selten       | P                 | 8W6 Incapicitated          |
+| sehr selten  | Mottenwyvern Gift | 12 W6 Paralyzed            |
 
