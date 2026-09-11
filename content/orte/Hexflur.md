@@ -24,4 +24,5 @@ Diese Schule unterliegt dem Haus Arkanova. Das Wissen entspricht ihrem Werte Bil
 Glasschimmer
 Die Forschung innerhalb der Gewächshäuser Kuppeln aus Glas. Große Botanische Gärten die angelegt werden. Herstellung von Chemischen Stoffen. [[Tinknar]] die Zaubertränke herstellen um die Formel zu erstellen um den 
 
+
 zu kreieren.
