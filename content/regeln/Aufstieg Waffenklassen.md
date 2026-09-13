@@ -19,9 +19,3 @@ Das einsetzen der Trefferwürfel nimmst Schaden der Gewürfelten Zahl auf dich s
 Level 5 = 3 Manöver, Level 11 = 4 Manöver, Level 17 = 5 Manöver
 
 ___
-
-
-
-
-___
-
