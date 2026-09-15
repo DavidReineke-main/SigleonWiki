@@ -4,7 +4,6 @@ tags:
   - Haeuser
 ---
 
-
 "Aar'solvenum"
 
 Das Haus Arkanova ist das Haus der Magie. Wissen über die Physikalischen Gesetze und wie sie mit Magie in Verbindung stehen wird hier erforscht. Die Realität ist beeinflussbar durch die Magie und kann deinem Willen unterliegen. Das Haus sucht nach einen weg unendliches Potential zu schöpfen. Eine Energiequelle die nicht erlöscht das [[Nirmana]]. Damit hoffen sie sich Stabilität damit ... Ewig aufrecht erhalten wird.
