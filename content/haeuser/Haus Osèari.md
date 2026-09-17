@@ -3,7 +3,6 @@ tags:
   - Haeuser
 published: true
 ---
----
 
 "Der [[Schleier]] der uns umgibt, die Schwingen, die uns die Gaben bringen, der Schein, den wir bewahren"
 
