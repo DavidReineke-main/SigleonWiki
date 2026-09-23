@@ -30,4 +30,4 @@ Grenzland
 ein direkter Überweg ins [[Sündnebel]] eine Fraktion die [[Istari]] ist ein Volk das abgeschottet von dem Rest Sigleons brauchen nur sich selbst. Die [[Istari]] haben eine Enge Bindung mit den Bestien aufgebaut.
 
 Goblia
-Die Goblins haben sich eine eigene kleine Nation aufgebaut und einen eigenen Handel. Sie entdeckten und beherbergen das magische Holz [[Ureol]]. Der Ureol Baum ist magisch es ist ein Baum der wenn er groß genug ist die Landmasse auf die er sitzt anhebt und hinauf steigt. Goblia hat sich daraus Luftschiffe erbaut und hat die Bäume alles Samt in Beschlag genommen. Gibt diese nur limitiert auf den Markt.
+Die Goblins haben sich eine eigene kleine Nation aufgebaut und einen eigenen Handel. Sie entdeckten und beherbergen das magische Holz [[Areol]]. Der Ureol Baum ist magisch es ist ein Baum der wenn er groß genug ist die Landmasse auf die er sitzt anhebt und hinauf steigt. Goblia hat sich daraus Luftschiffe erbaut und hat die Bäume alles Samt in Beschlag genommen. Gibt diese nur limitiert auf den Markt.
