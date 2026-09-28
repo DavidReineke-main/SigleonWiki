@@ -8,8 +8,8 @@ published: true
 Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde 
 
 Job aufstieg
-2x 
-3x Deine Job Aktivität erhält 2 Würfe
+Einstieg oder Lehre 2x 
+Novize 3x Deine Job Aktivität erhält 2 Würfe
 4x
 5x Deine Job Aktivität erhält 3 Würfe
 6x
