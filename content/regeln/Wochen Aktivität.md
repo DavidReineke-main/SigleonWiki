@@ -77,7 +77,7 @@ Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren R
 
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
 
-==Basis Gilde==
+==Gilde==
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
 
