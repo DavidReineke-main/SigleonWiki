@@ -28,7 +28,8 @@ Körper Modifikation
 
 Eigene Forschung vorantreiben
 
-Werk (Magische Items)
+Magische Items herstellen = Werke
+
 Gewöhnliches Item 1x
 Ungewöhnliches Item 2x
 Seltenes Item 4x
