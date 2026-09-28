@@ -68,7 +68,6 @@ Decke Geheimnisse auf.
 Tauschen von dir möglichen Fertigkeiten, Waffentraining, Fighting Style, Manöver austauschen
 
 
-
 level 1-4 3x
 level 5-8 4x
 level 9-12 5x
