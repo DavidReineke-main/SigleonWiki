@@ -50,6 +50,7 @@ Mirvana erforschen
 | ???          | Legendäres Mirvana     |
 
 ==Forschung==
+
 Wechsel eines Zaubers, Zaubertricks
 
 Zauberklassen = Training
