@@ -8,11 +8,11 @@ published: true
 Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde 
 
 Job aufstieg
-3x 
-4x Deine Job Aktivität erhält 2 Würfe
-5x
-6x Deine Job Aktivität erhält 3 Würfe
-7x
+2x 
+3x Deine Job Aktivität erhält 2 Würfe
+4x
+5x Deine Job Aktivität erhält 3 Würfe
+6x
 
 | Basis Einkommen | Würfel Multipliakator |
 | --------------- | --------------------- |
