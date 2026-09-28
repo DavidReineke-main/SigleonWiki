@@ -76,3 +76,8 @@ Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und wissen zuzugreifen.
 
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
+
+==Basis Gilde==
+
+Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
+Sich auf andere zu verlasssen
