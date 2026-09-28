@@ -81,6 +81,6 @@ aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen eine
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
 
-Anderen auszuhelfen und eine Auszeit zu nehmen erhöht deine Trefferwürfel.
+Anderen auszuhelfen und eine Auszeit zu nehmen erhälst du einen zusätzlichen Trefferwürfel.
 
 Hilf zwei verschiedenen Personen um einen 
