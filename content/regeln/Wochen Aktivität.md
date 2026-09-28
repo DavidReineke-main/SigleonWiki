@@ -9,7 +9,6 @@ Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde ohne dieser Woch
 
 Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 
-
 | Job Aufstieg   | Basis Einkommen | Würfel Multipliakator |
 | -------------- | --------------- | --------------------- |
 | 2x Lehrling    | 20 Goldcredits  | DC 10 = x2            |
@@ -45,7 +44,7 @@ Mirvana erforschen
 
 | Trockenpfade | gewöhnliches Mirvana   |
 | ------------ | ---------------------- |
-|              | ungewöhnliches Mirvana |
+| Reitwege     | ungewöhnliches Mirvana |
 | Neburasturz  | seltenes Mirvana       |
 | ??           | sehr seltenes Mirvana  |
 | ???          | Legendäres Mirvana     |
@@ -63,7 +62,6 @@ Decke Geheimnisse auf.
 
 ==Training==
 Tauschen von dir möglichen Fertigkeiten, Waffentraining, Fighting Style, Manöver austauschen
-
 
 level 1-4 3x
 level 5-8 4x
