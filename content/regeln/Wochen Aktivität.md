@@ -83,6 +83,6 @@ Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Woch
 
 Anderen auszuhelfen und eine Auszeit zu nehmen. lässt dich ein wenig entspannen und Geschehenes verarbeiten.
 
-Du erhältst einen zusätzlichen Trefferwürfel deiner Klasse. rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet)
+Wenn du zwei Personen aushilfst.
 
-Hilf zwei verschiedenen Personen um einen 
+Erhältst einen zusätzlichen Trefferwürfel deiner Klasse. Rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet)
