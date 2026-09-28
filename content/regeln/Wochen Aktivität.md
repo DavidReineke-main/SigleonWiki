@@ -77,4 +77,5 @@ level 17-20 7x
 
 wechsel wenn du gewillt bist eine Fertigkeit auf deinem Character Cheat
 
+Bestimmte Organisationen erfordern 
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind
