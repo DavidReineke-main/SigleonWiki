@@ -35,7 +35,7 @@ Eigene Forschung vorantreiben
 Werk (Magische Items)
 Gewöhnliches Item 1x
 Ungewöhnliches Item 2x
-Seltenes Item 3x
+Seltenes Item 4x
 sehr Seltenes Item 4x
 Legendäres Item 5x
 
