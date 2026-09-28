@@ -61,6 +61,8 @@ Zauberklassen = Training
 
 Erforsche einen dir neuen Begriff oder einer Person. Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart.
 
+Decke Geheimnisse auf.
+
 
 ==Training==
 Tauschen von dir möglichen Fertigkeiten, Waffentraining, Fighting Style, Manöver austauschen
@@ -73,9 +75,10 @@ level 17-20 7x
 
 (Training wird auch passive auch erworben durch Meilensteine erreichen)
 
-==Kommunikation==
+==Soziale Leistungen==
 
 wechsel wenn du gewillt bist eine Fertigkeit auf deinem Character Cheat
 
-Bestimmte Organisationen erfordern 
+Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und wissen zuzugreifen.
+
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind
