@@ -81,6 +81,8 @@ aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen eine
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
 
-Anderen auszuhelfen und eine Auszeit zu nehmen erhälst du einen zusätzlichen Trefferwürfel.
+Anderen auszuhelfen und eine Auszeit zu nehmen. lässt dich ein wenig entspannen und Geschehenes verarbeiten.
+
+Du erhältst einen zusätzlichen Trefferwürfel deiner Klasse. rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet)
 
 Hilf zwei verschiedenen Personen um einen 
