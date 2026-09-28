@@ -43,12 +43,12 @@ Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen,
 Bestie erforschen
 Mirvana erforschen
 
-| Start Gebiet<br>Sündnebel Eingang | gewöhnliches Mirvana   |
-| --------------------------------- | ---------------------- |
-| ??                                | ungewöhnliches Mirvana |
-| ??                                | seltenes Mirvana       |
-| ??                                | sehr seltenes Mirvana  |
-| ???                               | Legendäres Mirvana     |
+| Trockenpfade | gewöhnliches Mirvana   |
+| ------------ | ---------------------- |
+|              | ungewöhnliches Mirvana |
+| Neburasturz  | seltenes Mirvana       |
+| ??           | sehr seltenes Mirvana  |
+| ???          | Legendäres Mirvana     |
 
 
 ==Forschung==
