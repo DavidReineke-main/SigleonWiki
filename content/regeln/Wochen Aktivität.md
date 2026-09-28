@@ -49,14 +49,13 @@ Mirvana erforschen
 | ??           | sehr seltenes Mirvana  |
 | ???          | Legendäres Mirvana     |
 
-
 ==Forschung==
 Wechsel eines Zaubers, Zaubertricks
 
 Zauberklassen = Training
 
-Erforsche einen dir neues Wissen. Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart. 
-
+Erforsche einen dir neues Wissen. Geschichte, Sprache oder Dimensionen, Magie...
+Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart. 
 
 
 ==Training==
