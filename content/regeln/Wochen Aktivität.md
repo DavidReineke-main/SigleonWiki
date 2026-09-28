@@ -5,17 +5,18 @@ published: true
 ---
 ==Job (Einkommen)==
 
-Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde 
+Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde ohne dieser Wochenaktivität nachzugehen.
 
 Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 
-| Job Aufstieg | Basis Einkommen | Würfel Multipliakator |
-| ------------ | --------------- | --------------------- |
-| 2x Lehrling  | 20 Goldcredits  | 10 = x2               |
-| Novize       | 50 Goldcredits  | 15 = x3               |
-| Angestellter | 100 Goldcredits | 20 = x4               |
-| Gehoben      | 200 Goldcredits | 25 = x5               |
-| Meister      | 500 Goldcredits | 30 = x6               |
+
+| Job Aufstieg   | Basis Einkommen | Würfel Multipliakator |
+| -------------- | --------------- | --------------------- |
+| 2x Lehrling    | 20 Goldcredits  | DC 10 = x2            |
+| 2xNovize       | 50 Goldcredits  | DC 15 = x3            |
+| 3xAngestellter | 100 Goldcredits | DC 20 = x4            |
+| 5xGehoben      | 200 Goldcredits | DC 25 = x5            |
+| Meister        | 500 Goldcredits | DC 30 = x6            |
 
 ==Werksschmiede==
 
