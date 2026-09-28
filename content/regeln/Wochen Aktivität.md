@@ -80,4 +80,7 @@ aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen eine
 ==Basis Gilde==
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
-Sich auf andere zu verlasssen
+
+Anderen auszuhelfen und eine Auszeit zu nehmen erhöht deine Trefferwürfel.
+
+Hilf zwei verschiedenen Personen um einen 
