@@ -7,9 +7,9 @@ Das Volk aus [[Sigleon]] ist bereit für sein Ziel alles zu geben. Um das Ziel z
 ___
 
 betroffen sind folgende Klassen
-(Barbar, Kämpfer, Magieschmied, Mönch, Paladin, Schurke, Waldläufer)
+(Barbar, Kämpfer, Magieschmied, Mönch, Paladin, Schurke, Waldläufer, Sleuth)
 
-Rolle beim auf Leveln den Trefferwürfel 2x verrechne beide Ergebnisse und im nachhinein deine Konstitution. 
+()
 
 du kennst 2 Manöver vom Kampfmeister
 du nutzt deine Trefferwürfel um diese einzusetzen.
