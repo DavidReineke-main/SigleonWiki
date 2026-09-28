@@ -86,3 +86,4 @@ Anderen auszuhelfen und eine Auszeit zu nehmen. lässt dich ein wenig entspannen
 Wenn du zwei Personen aushilfst.
 
 Erhältst einen zusätzlichen Trefferwürfel deiner Klasse. Rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet)
+
