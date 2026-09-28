@@ -9,7 +9,7 @@ ___
 betroffen sind folgende Klassen
 (Barbar, Kämpfer, Magieschmied, Mönch, Paladin, Schurke, Waldläufer, Sleuth)
 
-()
+(zusätzliche Trefferwürfel können erhalten werden durch Wochenaktivität Gilde)
 
 du kennst 2 Manöver vom Kampfmeister
 du nutzt deine Trefferwürfel um diese einzusetzen.
