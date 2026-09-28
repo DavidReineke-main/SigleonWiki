@@ -74,12 +74,12 @@ level 9-12 5x
 level 13-16 6x
 level 17-20 7x
 
-(Training wird auch passive auch erworben durch Meilensteine erreichen)
+(Ein Levelaufstieg wird auch durch Meilensteine erreicht)
 
 ==Soziale Leistungen==
 
-wechsel wenn du gewillt bist eine Fertigkeit auf deinem Character Cheat
+Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
 Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und wissen zuzugreifen.
 
-aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind
+aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
