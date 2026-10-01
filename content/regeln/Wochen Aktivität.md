@@ -71,11 +71,19 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | DC 10 | 1 Erschöpfung                          |
 | DC 12 | Du besitzt nur die hälfte deiner Leben |
 
-| DC 18 | +2 Rk                       |
+| DC 18 | +2 RK                       |
 | ----- | --------------------------- |
 | DC 20 | +2 auf alle Rettungswürfe   |
 | DC 25 | +2W6 auf alle Angriffe      |
 | DC 30 | +50 Temporäre Trefferpunkte |
+
+| Level | Training |
+| ----- | -------- |
+| 1-4   | 3x       |
+| 5-8   | 4x       |
+| 9-12  | 5x       |
+| 13-16 | 6x       |
+| 17-20 | 7x       |
 
 level 1-4 3x
 level 5-8 4x
