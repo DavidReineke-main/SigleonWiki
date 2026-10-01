@@ -4,6 +4,7 @@ tags:
 published: true
 ---
 
+
 "Der [[Schleier]] der uns umgibt, die Schwingen, die uns die Gaben bringen, der Schein, den wir bewahren"
 
 Das Haus Osèarie dient dem verlorenen Licht. Die Texte, auf die sich diese Religion gründet und ihr Wissen wurde zerstört. Die Religion versucht das festzuhalten und weiterzutragen was ihnen geblieben war. Es wird nach Erkenntnissen gesucht wem sie dienen und Überlieferungen erforscht, wie die Stadt gegründet wurde und welchem Zweck wir nun dienen. Die Suche ist mühselig verschiedene Interpretationen geben verschiedene Formen von Magie Segen oder Fluch.
@@ -33,5 +34,3 @@ Berühmte Heilige:
 
 Ordensoberhaupt [[0 Lacius Marsins Osèarie Vll]]
 
-
-___
