@@ -35,8 +35,16 @@ Gewöhnliches Item 1x -> Ungewöhnliches Item 2x
 Das Bereisen im Sündnebel lehrt dich auf welche Gefahren sich verbergen, seine Geheimnisse
 und die Kreaturen die darin leben.
 
-Bestie Eintrag generieren,
-Ressource 
+
+| Substanz | Pflanze | Stein | Bestie | Fundstück |
+| -------- | ------- | ----- | ------ | --------- |
+| DC 10    |         |       |        |           |
+|          |         |       |        |           |
+|          |         |       |        |           |
+|          |         |       |        |           |
+|          |         |       |        |           |
+
+
 
 | Trockenpfade | gewöhnliches Mirvana   |
 | ------------ | ---------------------- |
