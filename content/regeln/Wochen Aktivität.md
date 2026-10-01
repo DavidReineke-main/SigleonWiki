@@ -13,6 +13,8 @@ Start Einkommen
 Du kannst deine Wochenaktivität mit Nachteil würfeln, um dich mehr auf deine Arbeit zu fokussieren.
 Du erhältst gesteigerte Credits.
 
+DC 15 Einkommen x2
+DC 20 Einkommen x3
 
 
 ==Werksschmiede==
@@ -84,12 +86,6 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | 9-12  | 5x       |
 | 13-16 | 6x       |
 | 17-20 | 7x       |
-
-level 1-4 3x
-level 5-8 4x
-level 9-12 5x
-level 13-16 6x
-level 17-20 7x
 
 (Ein Levelaufstieg wird auch durch Meilensteine erreicht)
 
