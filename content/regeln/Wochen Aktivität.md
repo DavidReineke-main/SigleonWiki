@@ -63,6 +63,15 @@ Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du rec
 Durch Training kannst du eine Waffenfertigkeiten und dein Kampfkunst den nötigen Feinschliff geben um dich auf das nächste Gefecht vorzubereiten.
 Es ist dir möglichen Fertigkeiten, Waffentraining, Fighting Style, und Manöver auszutauschen.
 
+| DC 1  | 3 Erschöpfung               |
+| ----- | --------------------------- |
+| DC 5  | 2 Ershöpfung                |
+| DC 10 | 1 Erschöpfung               |
+| DC 12 | Starte mit hälfte der Leben |
+| DC 15 |                             |
+|       |                             |
+
+
 level 1-4 3x
 level 5-8 4x
 level 9-12 5x
