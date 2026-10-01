@@ -89,7 +89,7 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | 13-16 | 6x       |
 | 17-20 | 7x       |
 
-(Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein )
+(Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein resetet nicht dein Trainingseinheiten)
 
 
 ==Soziale Interaktionen==
