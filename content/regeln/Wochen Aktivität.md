@@ -7,8 +7,6 @@ published: true
 
 Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde ohne dieser Wochenaktivität nachzugehen.
 
-Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
-
 | Job Aufstieg   | Basis Einkommen | Würfel Multipliakator |
 | -------------- | --------------- | --------------------- |
 | 2x Lehrling    | 20 Goldcredits  | DC 10 = x2            |
