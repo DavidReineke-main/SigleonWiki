@@ -22,7 +22,7 @@ Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 (Voraussetzung benötigt Material)
 
 1.Tränke herstellen
-2.Körper Modifikation
+2.Körper Modifikation 
 3.Eigene Forschung vorantreiben
 4.Magische Items herstellen = Werke
 
@@ -33,7 +33,7 @@ Gewöhnliches Item 1x -> Ungewöhnliches Item 2x
 ==Auskundschaften==
 
 Das Bereisen im Sündnebel lehrt dich auf welche Gefahren sich verbergen, seine Geheimnisse
-und die Kreaturen die darin leben. Du kannst neue Routen entdecken. Die Bewegungen von Monstern un
+und die Kreaturen die darin leben. Du kannst neue Routen entdecken. Die Bewegungen von Monstern und Fraktionen nachvollziehen.
 
 | Substanz | Pflanze | Stein | Bestie | Fundstück |
 | -------- | ------- | ----- | ------ | --------- |
@@ -60,7 +60,8 @@ Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du rec
 
 
 ==Training==
-Tauschen von dir möglichen Fertigkeiten, Waffentraining, Fighting Style, Manöver austauschen
+Durch Training kannst du eine Waffenfertigkeiten und dein Kampfkunst den nötigen Feinschliff geben um dich auf das nächste Gefecht vorzubereiten.
+Es ist dir möglichen Fertigkeiten, Waffentraining, Fighting Style, und Manöver auszutauschen.
 
 level 1-4 3x
 level 5-8 4x
@@ -70,7 +71,7 @@ level 17-20 7x
 
 (Ein Levelaufstieg wird auch durch Meilensteine erreicht)
 
-==Soziale Leistungen==
+==Soziale Interaktionen==
 
 Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
@@ -82,9 +83,10 @@ aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen eine
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
 
-Anderen auszuhelfen und eine Auszeit zu nehmen. lässt dich ein wenig entspannen und Geschehenes verarbeiten.
+Anderen auszuhelfen und eine Auszeit zu nehmen, lässt dich ein wenig entspannen und Geschehenes verarbeiten.
 
 Wenn du zwei Personen aushilfst.
 
-Erhältst einen zusätzlichen Trefferwürfel deiner Klasse. Rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet)
+Erhältst einen zusätzlichen Trefferwürfel deiner Klasse.
+Rolle diesen und erhalte diesen als zusätzliches maximal leben. (Kon wird nicht zusätzlich drauf gerechnet) Die maximale Anzahl an Trefferwürfel die dir zur Verfügung stehen erhöht sich um 1.
 
