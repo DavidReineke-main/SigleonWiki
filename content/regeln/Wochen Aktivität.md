@@ -58,7 +58,12 @@ Wechsel eines Zaubers oder Zaubertricks
 
 Zauberklassen = Training
 
-Erforsche einen dir neues Wissen. Geschichte, Sprache, Dimensionen oder Magie...
+Erforsche einen dir neues Wissen.
+- Geschichte
+- Sprache
+- Dimensionen
+- Magie
+
 Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart. 
 
 
@@ -89,7 +94,7 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | 13-16 | 6x       |
 | 17-20 | 7x       |
 
-(Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein resetet nicht dein Trainingseinheiten)
+(Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein resettet nicht dein Trainingseinheiten)
 
 
 ==Soziale Interaktionen==
