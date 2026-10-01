@@ -54,7 +54,7 @@ Wenn du Kundschaftest erhältst du Ressourcen aus dem Gebiet in welches du Fuß 
 
 ==Forschung==
 
-Wechsel einen der dir möglichen Zaubern oder Zaubertricks
+Wechsel einen der dir möglichen Zauber oder Zaubertricks
 
 Zauberklassen = Training
 
@@ -69,9 +69,10 @@ Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du rec
 
 ==Training==
 Durch Training kannst du eine Waffenfertigkeiten und dein Kampfkunst den nötigen Feinschliff geben um dich auf das nächste Gefecht vorzubereiten.
-Es ist dir möglichen Fertigkeiten, Waffentraining, Fighting Style, und Manöver auszutauschen.
 
-Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für diese Sassion verspricht.
+Es ist dir möglich Waffenmeisterschaft, Fighting Style, und Manöver auszutauschen.
+
+Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für diese Session auswirkt.
 
 | DC 1  | 3 Erschöpfung                          |
 | ----- | -------------------------------------- |
