@@ -96,10 +96,13 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 
 Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
-Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und wissen zuzugreifen.
+- NPCs aufsuchen
+- Netzwerkarbeit
+- Neue Verbindungen aufbauen
+- Gegen eine Fraktion vorgehen
+- Nachforschungen zu einer Person oder Personengruppe anstellen.
 
-aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
-
+Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und Wissen zuzugreifen.
 
 ==Gilde==
 
