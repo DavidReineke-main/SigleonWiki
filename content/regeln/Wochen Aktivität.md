@@ -65,12 +65,14 @@ Es ist dir möglichen Fertigkeiten, Waffentraining, Fighting Style, und Manöver
 
 Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für diese Sassion verspricht.
 
-| DC 1  | 3 Erschöpfung               |
-| ----- | --------------------------- |
-| DC 5  | 2 Ershöpfung                |
-| DC 10 | 1 Erschöpfung               |
-| DC 12 | Starte mit hälfte der Leben |
+| DC 1  | 3 Erschöpfung                          |
+| ----- | -------------------------------------- |
+| DC 5  | 2 Ershöpfung                           |
+| DC 10 | 1 Erschöpfung                          |
+| DC 12 | Du besitzt nur die hälfte deiner Leben |
+
 | DC 18 | +2 Rk                       |
+| ----- | --------------------------- |
 | DC 20 | +2 auf alle Rettungswürfe   |
 | DC 25 | +2W6 auf alle Angriffe      |
 | DC 30 | +50 Temporäre Trefferpunkte |
