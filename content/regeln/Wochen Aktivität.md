@@ -22,11 +22,8 @@ Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 (Voraussetzung benötigt Material)
 
 Tränke herstellen
-
 Körper Modifikation
-
 Eigene Forschung vorantreiben
-
 Magische Items herstellen = Werke
 
 Gewöhnliches Item 1x
