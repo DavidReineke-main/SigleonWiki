@@ -54,11 +54,11 @@ Wenn du Kundschaftest erhältst du Ressourcen aus dem Gebiet in welches du Fuß 
 
 ==Forschung==
 
-Wechsel eines Zaubers oder Zaubertricks
+Wechsel einen der dir möglichen Zaubern oder Zaubertricks
 
 Zauberklassen = Training
 
-Erforsche einen dir neues Wissen.
+Erforsche neues Wissen (Im Spielverlauf werden Begriffe freigeschaltet die nur durch Forschung )
 - Geschichte
 - Sprache
 - Dimensionen
