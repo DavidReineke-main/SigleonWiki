@@ -109,6 +109,7 @@ Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
 Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und Wissen zuzugreifen.
 
+
 ==Gilde==
 
 Sich in der Gilde aufzuhalten. Lässt dich einer Person aushelfen bei ihrer Wochenaktivität. Damit würfelt sie mit Vorteil.
