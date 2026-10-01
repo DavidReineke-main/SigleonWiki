@@ -26,15 +26,13 @@ DC 20 Einkommen x4
 3.Eigene Forschung vorantreiben
 4.Magische Items herstellen = Werke
 
-Werksschmiede benötigt Ressourcen
-
-|                     | Credits | Ressource                     |
-| ------------------- | ------- | ----------------------------- |
-| Gewöhnliches Item   | 30      | 1x Pflanze 1x Stein           |
-| Ungewöhnliches Item | 100     | 1x Bestie, 1xPflanze, 1xStein |
-| Seltenes Item       | 300     | ??                            |
-| sehr Seltenes Item  | 1000    | ??                            |
-| Legendäres Item     | 3000    | ??                            |
+| Werksschmiede:      | Credits | Ressource                      | Zeit     |
+| ------------------- | ------- | ------------------------------ | -------- |
+| Gewöhnliches Item   | 30      | 1x Pflanze 1x Stein            | 1 Woche  |
+| Ungewöhnliches Item | 100     | 1x Bestie, 1xPflanze, 1x Stein | 2 Wochen |
+| Seltenes Item       | 500     | 2x Bestie 2x Pflanze 2x Stein  | 4 Wochen |
+| sehr Seltenes Item  | ??      | ??                             | ??       |
+| Legendäres Item     | ??      | ??                             | ??       |
 
 
 ==Auskundschaften==
