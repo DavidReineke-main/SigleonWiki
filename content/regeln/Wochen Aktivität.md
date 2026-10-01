@@ -10,7 +10,7 @@ Einkommen wird Passive erhalten.
 Start Einkommen
 20 Credits
 
-Du kannst deinen
+Du kannst deine Erfolgschance mit Nachteil würfeln, um dich mehr auf deine Arbeit zu fokussieren. 
 
 ==Werksschmiede==
 
