@@ -13,9 +13,10 @@ Start Einkommen
 Du kannst deine Wochenaktivität mit Nachteil würfeln, um dich mehr auf deine Arbeit zu fokussieren.
 Du erhältst gesteigerte Credits.
 
-DC 15 Einkommen x2
-DC 20 Einkommen x3
-
+(Dein Wochenaktivitätwurf generiert zusätzlich)
+DC 10 Einkommen x2
+DC 15 Einkommen x3
+DC 20 Einkommen x4
 
 ==Werksschmiede==
 
