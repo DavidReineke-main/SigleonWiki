@@ -81,7 +81,7 @@ Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren R
 
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
 
-Erhalte Heroische Inspiration.
+
 
 ==Gilde==
 
