@@ -33,7 +33,7 @@ Gewöhnliches Item 1x -> Ungewöhnliches Item 2x
 ==Auskundschaften==
 
 Das Bereisen im Sündnebel lehrt dich auf welche Gefahren sich verbergen, seine Geheimnisse
-und die Kreaturen die darin leben.
+und die Kreaturen die darin leben. Du kannst neue Routen entdecken. Die Bewegungen von Monstern un
 
 | Substanz | Pflanze | Stein | Bestie | Fundstück |
 | -------- | ------- | ----- | ------ | --------- |
@@ -51,11 +51,11 @@ Wenn du Kundschaftest erhältst du Ressourcen aus dem Gebiet in welches du Fuß 
 
 ==Forschung==
 
-Wechsel eines Zaubers, Zaubertricks
+Wechsel eines Zaubers oder Zaubertricks
 
 Zauberklassen = Training
 
-Erforsche einen dir neues Wissen. Geschichte, Sprache oder Dimensionen, Magie...
+Erforsche einen dir neues Wissen. Geschichte, Sprache, Dimensionen oder Magie...
 Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du recherchiert hast offenbart. 
 
 
