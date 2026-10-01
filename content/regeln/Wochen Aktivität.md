@@ -63,7 +63,7 @@ Bei einem Nachforschen Check werden dir Informationen zu deinem Thema das du rec
 Durch Training kannst du eine Waffenfertigkeiten und dein Kampfkunst den nötigen Feinschliff geben um dich auf das nächste Gefecht vorzubereiten.
 Es ist dir möglichen Fertigkeiten, Waffentraining, Fighting Style, und Manöver auszutauschen.
 
-Deine Aktivität erfordert K
+Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für diese Sassion verspricht.
 
 | DC 1  | 3 Erschöpfung               |
 | ----- | --------------------------- |
@@ -71,7 +71,8 @@ Deine Aktivität erfordert K
 | DC 10 | 1 Erschöpfung               |
 | DC 12 | Starte mit hälfte der Leben |
 | DC 18 | +2 Rk                       |
-|       |                             |
+| DC 20 | +2 auf alle Rettungswürfe   |
+| DC 25 |                             |
 
 
 level 1-4 3x
