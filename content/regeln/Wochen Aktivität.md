@@ -19,16 +19,18 @@ Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 
 ==Werksschmiede==
 
-(Voraussetzung benötigt Material)
-
 1.Tränke herstellen
-2.Körper Modifikation 
+2.Körper Modifikation durchführen
 3.Eigene Forschung vorantreiben
 4.Magische Items herstellen = Werke
 
-Gewöhnliches Item 1x -> Ungewöhnliches Item 2x 
-->Seltenes Item 4x ->sehr Seltenes Item 4x
-->Legendäres Item 5x
+Werksschmiede benötigt Ressourcen
+
+Gewöhnliches Item
+Ungewöhnliches Item 
+Seltenes Item
+sehr Seltenes Item 4x
+Legendäres Item 5x
 
 ==Auskundschaften==
 
