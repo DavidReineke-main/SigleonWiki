@@ -28,11 +28,14 @@ DC 20 Einkommen x4
 
 Werksschmiede benötigt Ressourcen
 
-Gewöhnliches Item
-Ungewöhnliches Item 
-Seltenes Item
-sehr Seltenes Item 
-Legendäres Item 
+|                     | Credits | Ressource                     |
+| ------------------- | ------- | ----------------------------- |
+| Gewöhnliches Item   | 30      | 1x Pflanze 1x Stein           |
+| Ungewöhnliches Item | 100     | 1x Bestie, 1xPflanze, 1xStein |
+| Seltenes Item       | 300     | ??                            |
+| sehr Seltenes Item  | 1000    | ??                            |
+| Legendäres Item     | 3000    | ??                            |
+
 
 ==Auskundschaften==
 
