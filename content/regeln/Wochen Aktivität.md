@@ -29,8 +29,8 @@ Werksschmiede benötigt Ressourcen
 Gewöhnliches Item
 Ungewöhnliches Item 
 Seltenes Item
-sehr Seltenes Item 4x
-Legendäres Item 5x
+sehr Seltenes Item 
+Legendäres Item 
 
 ==Auskundschaften==
 
