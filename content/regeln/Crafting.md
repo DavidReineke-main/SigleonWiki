@@ -85,6 +85,6 @@ stark
 Verlangsamt solange anhält.
 -W6 würfeln Anfang der Runde bei einer 5 oder 6 erbrechen eine Runde keine Aktion.
 -Vergiftet solange Effekt anhält
--Schwindel solange der Effekt anhält hälfte der Bewegung -1W4 auf Angriffswürfe
+-Schwindel solange der Effekt anhält hälfte der Bewegung und -1W4 auf Angriffswürfe
 -Fluch Schaden gegen dich ist um 1W8 erhöht
 
