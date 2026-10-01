@@ -5,15 +5,13 @@ published: true
 ---
 ==Job (Einkommen)==
 
-Basis Einkommen Passives einkommen = Erhalte das Gold pro Runde ohne dieser Wochenaktivität nachzugehen.
+Einkommen wird Passive erhalten. 
 
-| Job Aufstieg   | Basis Einkommen | Würfel Multipliakator |
-| -------------- | --------------- | --------------------- |
-| 2x Lehrling    | 20 Goldcredits  | DC 10 = x2            |
-| 2xNovize       | 50 Goldcredits  | DC 15 = x3            |
-| 3xAngestellter | 100 Goldcredits | DC 20 = x4            |
-| 5xGehoben      | 200 Goldcredits | DC 25 = x5            |
-| Meister        | 500 Goldcredits | DC 30 = x6            |
+Start Einkommen
+20 Credits
+
+
+
 
 ==Werksschmiede==
 
