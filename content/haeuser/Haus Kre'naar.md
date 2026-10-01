@@ -4,7 +4,6 @@ tags:
   - Haeuser
 ---
 
-
  "Lasst unsere Herzen schlagen im Einklang"
  
  Das Haus Kre'naar besteht solange die Geschichte es festhalten kann. Ihre Ansinnen ist es ihre Mitglieder zu starken Kriegern auszubilden. Um sich gegen Nirvana behaupten zu können und in dem Rennen gegen die anderen Häuser diese zu erforschen, haben sie sich einen Weg erarbeitet, mehr Aufmerksamkeit dem Bestien und der Natur die sich dem Nebel widersetzt haben. Viele versuchen einen Einklang mit der Natur herzustellen das Herz im selben Rhythmus zu schlagen.
@@ -26,5 +25,3 @@ Berühmtheiten aus dem Haus
 [[Jonopher Jorland]]
 [[Alber Torbruch]] verstorben
 Führungsperson: [[0 Vyrrant Kre'naar]]
-
-___
