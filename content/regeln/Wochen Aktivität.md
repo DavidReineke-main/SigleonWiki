@@ -3,15 +3,14 @@ tags:
   - Regeln
 published: true
 ---
-==Job (Einkommen)==
+==Einkommen==
 
 Einkommen wird Passive erhalten. 
 
 Start Einkommen
 20 Credits
 
-
-
+Du kannst deinen
 
 ==Werksschmiede==
 
