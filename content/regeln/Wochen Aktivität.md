@@ -46,14 +46,8 @@ und die Kreaturen die darin leben.
 | DC 28    |         |       | 3x     |           |
 | DC 30    | 4x      | 4x    | 4x     | 2x        |
 
-Wenn
+Wenn du Kundschaftest 
 
-| Trockenpfade | gewöhnliches Mirvana   |
-| ------------ | ---------------------- |
-| Reitwege     | ungewöhnliches Mirvana |
-| Neburasturz  | seltenes Mirvana       |
-| ??           | sehr seltenes Mirvana  |
-| ???          | Legendäres Mirvana     |
 
 ==Forschung==
 
