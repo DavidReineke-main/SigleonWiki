@@ -46,7 +46,7 @@ und die Kreaturen die darin leben.
 | DC 28    |         |       | 3x     |           |
 | DC 30    | 4x      | 4x    | 4x     | 2x        |
 
-Wenn du Kundschaftest 
+Wenn du Kundschaftest erhältst du Ressourcen aus dem Gebiet in welches du Fuß setzt. 
 
 
 ==Forschung==
