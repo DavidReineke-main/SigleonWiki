@@ -32,29 +32,3 @@ Larendel kette
 Gewöhnlich
 neutralisiert Gerüche für die Person die sie trägt, sie riecht nach Larendel. Im Gegenzug riecht der träger alle Gerüche doppelt so intensiv. 
 
-___
-Trank der Heilung
-gewöhnlich
-Du erhälst Trefferpunkte zurück in höhe der Wertigkeit des Heilungstranks.
-
-| Wertigkeit   | Heilung   |
-| ------------ | --------- |
-| Gewöhnlich   | 2 W4 +2   |
-| Ungewöhnlich | 4 W4 +4   |
-| Selten       | 8 W4 +8   |
-| sehr selten  | 10 W4 +20 |
-___
-
-Giftphiole
-gewöhnlich
-Kann mit einer Bonus Aktion auf eine Waffe aufgetragen werden. Nächster Angriff der mit dieser Waffe trifft macht zusätzlich Giftschaden oder Effekt.
-
-| Wertigkeit   | Art des Gifts     | Schaden, Effekt            |
-| ------------ | ----------------- | -------------------------- |
-| Gewöhnlich   | Vesra Gift        | 2W6 Gift                   |
-| Ungewöhnlich | Spinnen Gift      | 4 W6, Vergiftung DC Kon 14 |
-| Selten       | Giftpilze         | 8W6 Incapicitated          |
-| sehr selten  | Mottenwyvern Gift | 12 W6 Paralyzed            |
-
-___
-
