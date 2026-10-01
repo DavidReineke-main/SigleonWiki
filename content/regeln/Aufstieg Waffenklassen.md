@@ -9,12 +9,12 @@ ___
 betroffen sind folgende Klassen
 (Barbar, Kämpfer, Magieschmied, Mönch, Paladin, Schurke, Waldläufer, Sleuth)
 
-(zusätzliche Trefferwürfel können erhalten werden durch Wochenaktivität Gilde)
+(zusätzliche Trefferwürfel können erhalten werden durch Wochenaktivität =Gilde)
 
 du kennst 2 Manöver vom Kampfmeister
 du nutzt deine Trefferwürfel um diese einzusetzen.
 
-Das einsetzen der Trefferwürfel nimmst Schaden der Gewürfelten Zahl auf dich selbst.
+Durch das einsetzen von Trefferwürfel auf dieser weise nimmst du Schaden der Gewürfelten Zahl auf dich selbst.
 
 Level 5 = 3 Manöver, Level 11 = 4 Manöver, Level 17 = 5 Manöver
 
