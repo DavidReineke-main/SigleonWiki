@@ -58,9 +58,9 @@ Wechsel einen der dir möglichen Zaubern oder Zaubertricks
 
 Zauberklassen = Training
 
-Erforsche neues Wissen (Im Spielverlauf werden Begriffe freigeschaltet die nur durch Forschung )
+Erforsche neues Wissen (Im Spielverlauf werden Begriffe freigeschaltet die nur durch Forschung ihre  Geheimnisse offenbaren)
 - Geschichte
-- Sprache
+- Sprache, Kultur
 - Dimensionen
 - Magie
 
