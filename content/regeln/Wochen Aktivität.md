@@ -35,16 +35,18 @@ Gewöhnliches Item 1x -> Ungewöhnliches Item 2x
 Das Bereisen im Sündnebel lehrt dich auf welche Gefahren sich verbergen, seine Geheimnisse
 und die Kreaturen die darin leben.
 
-
 | Substanz | Pflanze | Stein | Bestie | Fundstück |
 | -------- | ------- | ----- | ------ | --------- |
-| DC 10    |         |       |        |           |
-|          |         |       |        |           |
-|          |         |       |        |           |
-|          |         |       |        |           |
-|          |         |       |        |           |
+| DC 10    | 1x      |       |        |           |
+| DC 14    | 2x      | 1x    |        |           |
+| DC 18    |         | 2x    | 1x     |           |
+| DC 21    | 3x      |       | 2x     |           |
+| DC 24    |         |       |        | 1x        |
+| DC 26    |         | 3x    |        |           |
+| DC 28    |         |       | 3x     |           |
+| DC 30    | 4x      | 4x    | 4x     | 2x        |
 
-
+Wenn
 
 | Trockenpfade | gewöhnliches Mirvana   |
 | ------------ | ---------------------- |
