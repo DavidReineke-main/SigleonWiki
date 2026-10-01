@@ -21,23 +21,22 @@ Diese Vorgaben sind eine Grobe Orientierung können einzeln angepasst werden.
 
 (Voraussetzung benötigt Material)
 
-Tränke herstellen
-Körper Modifikation
-Eigene Forschung vorantreiben
-Magische Items herstellen = Werke
+1.Tränke herstellen
+2.Körper Modifikation
+3.Eigene Forschung vorantreiben
+4.Magische Items herstellen = Werke
 
-Gewöhnliches Item 1x
-Ungewöhnliches Item 2x
-Seltenes Item 4x
-sehr Seltenes Item 4x
-Legendäres Item 5x
+Gewöhnliches Item 1x -> Ungewöhnliches Item 2x 
+->Seltenes Item 4x ->sehr Seltenes Item 4x
+->Legendäres Item 5x
 
 ==Auskundschaften==
 
-Ressource anschaffen, Dungeon Gebiet leichter zur Durchreise machen,
+Das Bereisen im Sündnebel lehrt dich auf welche Gefahren sich verbergen, seine Geheimnisse
+und die Kreaturen die darin leben.
 
-Bestie erforschen
-Mirvana erforschen
+Bestie Eintrag generieren,
+Ressource 
 
 | Trockenpfade | gewöhnliches Mirvana   |
 | ------------ | ---------------------- |
