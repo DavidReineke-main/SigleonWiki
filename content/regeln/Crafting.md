@@ -77,7 +77,7 @@ schwach
 -2 W6 Giftschaden 
 -Erkennung von Gefahren Funktion ausgesetzt
 -Betrunken = -1W6 auf Fertigkeitswürfe 2 Stunde Abklingzeit
--1 Tag durchfall
+-1 Tag inkopresis
 -Vergessenheit dein Kurzzeitgedächtnis funktioniert nicht
 
 stark
