@@ -18,6 +18,7 @@ DC 10 Einkommen x2
 DC 15 Einkommen x3
 DC 20 Einkommen x4
 
+
 ==Werksschmiede==
 
 1.Tränke herstellen
