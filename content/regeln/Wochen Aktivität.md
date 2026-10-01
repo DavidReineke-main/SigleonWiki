@@ -80,6 +80,7 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | DC 25 | +2W6 auf alle Angriffe      |
 | DC 30 | +50 Temporäre Trefferpunkte |
 
+
 | Level | Training |
 | ----- | -------- |
 | 1-4   | 3x       |
@@ -88,7 +89,8 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | 13-16 | 6x       |
 | 17-20 | 7x       |
 
-(Ein Levelaufstieg wird auch durch Meilensteine erreicht)
+(Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein )
+
 
 ==Soziale Interaktionen==
 
@@ -97,7 +99,6 @@ Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 Bestimmte Organisationen erfordern das aufbauen durch Beziehungen um auf deren Ressourcen und wissen zuzugreifen.
 
 aufsuchen von NPCs, Netzwerkarbeit, Verbindungen aufbauen, gegenspiel gegen einen Feind, Nachforschungen anstellen zu einer Person oder Personengruppe.
-
 
 
 ==Gilde==
