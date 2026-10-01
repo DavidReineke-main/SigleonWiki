@@ -72,8 +72,8 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 | DC 12 | Starte mit hälfte der Leben |
 | DC 18 | +2 Rk                       |
 | DC 20 | +2 auf alle Rettungswürfe   |
-| DC 25 |                             |
-
+| DC 25 | +2W6 auf alle Angriffe      |
+| DC 30 | +50 Temporäre Trefferpunkte |
 
 level 1-4 3x
 level 5-8 4x
