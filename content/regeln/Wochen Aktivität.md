@@ -104,7 +104,7 @@ Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
 - NPCs aufsuchen
 - Netzwerkarbeit
-- Neue Verbindungen aufbauen
+- Neue Beziehungen aufbauen
 - Gegen eine Fraktion vorgehen
 - Nachforschungen zu einer Person oder Personengruppe anstellen.
 
