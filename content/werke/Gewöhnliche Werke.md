@@ -12,7 +12,7 @@ ___
 
 Glühfarbe
 gewöhnlich
-hinterlasse Farbe die UV aufnimmt und wenn es dunkel wird erst Sichtbar wird.
+hinterlasse Farbe die UV aufnimmt und wenn es dunkel wird erst zu entdecken ist.
 
 ___
 
