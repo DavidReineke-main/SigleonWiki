@@ -11,7 +11,7 @@ Segelnest
 Farmersdorf
 Goblia
 Fern
-See Nami
+Regen
 Istar
 
 [[Haus Kre'naar]]
