@@ -80,7 +80,7 @@ ___
 Nirva (1-28).06
 [[Sündnebel]]
 
-Der Zyklus bedingt das Nirvana sich weit ausbreitet und die Stadt noch mehr in Gefahr steht. Weshalb viele Sicherheitsmaßnahmen ergriffen werden und [[Nebura]] vermehrt gesponsert werden. 
+Der Zyklus bedingt das Nirvana sich weit ausbreitet und die Stadt noch mehr in Gefahr steht. Weshalb viele Sicherheitsmaßnahmen ergriffen werden und [[Sündnebel/Nebura]] vermehrt gesponsert werden. 
 
 Ehr Nebura
 Auszeichnung für Nebeltaucher für Erfolge den Nirvana zu erforschen. Erhalten ein Werk spizelle angefertigt aus dem [[Haus Osèari]] 
