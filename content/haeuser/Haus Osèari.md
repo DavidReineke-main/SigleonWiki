@@ -18,7 +18,7 @@ Auch werden viele in Auftrag gegben um sich gegen Nirvana zu wappnen.
 Mitglieder können aus der Werkskammer sich Werke wählen, um besonderen Anlässen die Hilfe des Lichts zu holen.
 
 Der Tod und somit die Grabstätte das [[Mausoleum]] wird von einem gewidmeten Diener des Ordens überwacht. 
-Alle Toten müssen hierher gebracht werden damit sie [[Nirvana]] (die Erlösung) gebracht werden. In einer trage werden sie hinabgelassen in ein tief ins Innere des Mausoleums hinabgelassen. Spiralen förmig gibt es eine Treppe die Einkerbungen hat für die Grabmäler der toten.
+Alle Toten müssen hierher gebracht werden damit sie [[Sündnebel/Nirvana]] (die Erlösung) gebracht werden. In einer trage werden sie hinabgelassen in ein tief ins Innere des Mausoleums hinabgelassen. Spiralen förmig gibt es eine Treppe die Einkerbungen hat für die Grabmäler der toten.
 
 Das Haus besitzt ein Werk eine Lichtquelle welches den Einbruch von Nirvana und damit den Untergang verhindert. Aufgrund dessen haben sie eine hohe Machtposition.
 
