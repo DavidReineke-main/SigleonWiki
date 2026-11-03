@@ -6,12 +6,12 @@ published: true
 
 ```
 Bezirke
-Hängende Säulen
+Säulbrück
 Segelnest
 Farmersdorf
 Goblia
 Grenzland
-See Regenfall
+See Nami
 Istar
 
 [[Haus Kre'naar]]
