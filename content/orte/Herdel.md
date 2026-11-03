@@ -10,7 +10,7 @@ Säulbrück
 Segelnest
 Farmersdorf
 Goblia
-Inseln
+Fern
 See Nami
 Istar
 
