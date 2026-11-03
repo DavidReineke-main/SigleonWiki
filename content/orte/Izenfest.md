@@ -7,7 +7,7 @@ published: true
 Bezirke
 
 Schienenhof
-Ventilirium
+
 Nebdocks
 Stiegen
 
@@ -18,7 +18,16 @@ Orts Beschreibung
 Dies ist die Festung der Industrie. Aus den gewonnen Materie werden viele Unterschiedliche Produkte hergestellt. Der größte Vertrieb ist [[Fraktionen/Organisation/Frostofen]] Gemeinwerk er gibt für die meisten Leute der Stadt eine sichere Arbeitsstelle.
 
 Schienenhof
-Der Zug ist ein sehr beliebtes Transportmittel des Volkes. Route verläuft von Schienenhof nach 
+Der Zug ist ein sehr beliebtes Transportmittel des Volkes.
+Route verläuft von Schienenhof
+Stiegen,
+Frostofen,
+Kalypspass,
+Säulbrück,
+Kataloss
+
+
+
 1878 in Betrieb genommen.
 
 Nebdocks
