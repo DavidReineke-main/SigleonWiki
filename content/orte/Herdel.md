@@ -24,7 +24,7 @@ Farmersdorf
 Das Gebiet und die Felder sind aufgeteilt durch Landesherren die sich weiter expandieren und immer mehr Gebiet kaufen kleine Farmen auf und machen sie sich Untertan. Ihre Häuser beherbergen sie das Volk, geben Essen einen Schlafplatz und Arbeit versorgen.
 
 Ebland
-ein direkter Überweg ins [[Sündnebel]] eine Fraktion die [[Istari]] ist ein Volk das abgeschottet von dem Rest Sigleons brauchen nur sich selbst. Die [[Istari]] haben eine Enge Bindung mit den Bestien aufgebaut.
+Inseln die weit der Zivilisation entfolgen sind, eine Ruhe Ort weit entfernt von der Stadt.
 
 Goblia
 Die Goblins haben sich eine eigene kleine Nation aufgebaut und einen eigenen Handel. Sie entdeckten und beherbergen das magische Holz [[Arka brim kaden]]. Ist magisch welcher das schwimmen der Inseln verstärkt Baum der wenn er groß genug ist die Landmasse auf die er sitzt anhebt und hinauf steigt. Goblia hat sich daraus Luftschiffe erbaut und hat die Bäume alles Samt in Beschlag genommen. Gibt diese nur limitiert auf den Markt.
