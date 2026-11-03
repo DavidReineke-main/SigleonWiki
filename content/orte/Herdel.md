@@ -18,7 +18,7 @@ Orts Beschreibung
 
 Dieses Areal ist Anbaufläche und Versorgung der Stadt mit Essen. Tierzucht und der Ambitionen zur Bindung zwischen Bestie, Natur und dem Volk wird hier geprägt.
 Dieses Areal ist geschützte Natur die weite Flächen von Feldern und Sicherheitszonen der Bestien besteht. Der Lebensraum wird erhalten und kontrolliert.
-Der Ort ist durchsetzt mit fliegende Felsbrocken welche Platz für Nester der Nebelsegler sorgen. 
+Der Ort war wohl einst die Säule auf die auch Hexflur gegründet war doch nun zerbrochen schwimmen die die Felsbrocken auf der Nebelschicht welche zum natürlichen Umfeld der Nebelsegler gehört.
 
 Farmersdorf
 Das Gebiet und die Felder sind aufgeteilt durch Landesherren die sich weiter expandieren und immer mehr Gebiet kaufen kleine Farmen auf und machen sie sich Untertan. Ihre Häuser beherbergen sie das Volk, geben Essen einen Schlafplatz und Arbeit versorgen.
