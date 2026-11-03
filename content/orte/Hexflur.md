@@ -23,7 +23,7 @@ Hexkrieg Universität
 Diese Schule unterliegt dem Haus Arkanova. Das Wissen entspricht ihrem Werte Bild. Keine Magie ist verboten. Das versagen bringt Lektionen. Magie ist gefährlich aber wenn wir nicht wagen sie zurück zu weisen und ihr einen Platz geben werden wir nur unvorbereitet auf Gefahren die wir noch nicht kennen.
 
 Glasschimmer
-Die Forschung innerhalb der Gewächshäuser Kuppeln aus Glas. Große Botanische Gärten die angelegt werden. Herstellung von Chemischen Stoffen. Gebäude sind miteinander verbunden.  [[Tinknar]] die Zaubertränke herstellen und Formeln erstellen um Lebensformen zu beeinflussen.
+Die Forschung innerhalb der Gewächshäuser Kuppeln aus Glas. Große Botanische Gärten die angelegt werden. Herstellung von Chemischen Stoffen. Gebäude sind für den größtenteils miteinander verbunden Wege dazwischen und Ampeln und Tore die Zeichen dafür geben ob die Passion sicher ist. [[Tinknar]] die Zaubertränke herstellen und Formeln erstellen um Lebensformen zu beeinflussen.
 
 Volttel
 Ein Kreis aus Magischen Kreationen die immer fortgeführt werden. Der Schutzring um alles was aus dem Sündnebel kommt Fernzuhalten. Dabei ist es das Böses mit Bösen bekämpft wird der Außenbereich ist Gefährlich. Magie Zauber fallen, Beschwörungen und andere Dinge liegen über Jahrhundertlange Kämpfe verstreut auf den offenen Straßen.
@@ -31,4 +31,4 @@ Ein Kreis aus Magischen Kreationen die immer fortgeführt werden. Der Schutzring
 Olrans Tore des Nebels
 Der Eingang in den Sündnebel. Die Tore sind Prüfungen jene hinaus zu lassen die es würdig sind. Stellen gleichermaßen Barrieren für die Bestien dar.
 
-
+>
