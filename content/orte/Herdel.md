@@ -10,8 +10,8 @@ Säulbrück
 Segelnest
 Farmersdorf
 Goblia
-Fern
-Regen
+
+See Regarn
 Istar
 
 [[Haus Kre'naar]]
