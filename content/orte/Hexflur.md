@@ -26,5 +26,5 @@ Glasschimmer
 Die Forschung innerhalb der Gewächshäuser Kuppeln aus Glas. Große Botanische Gärten die angelegt werden. Herstellung von Chemischen Stoffen. [[Tinknar]] die Zaubertränke herstellen und Formeln erstellen um Lebensformen zu beeinflussen.
 
 Volttel
-Ein Kreis aus Magischen Kreationen die immer fortgeführt werden. Der Schutzring um alles was aus dem Sündnebel kommt Fernzuhalten. 
+Ein Kreis aus Magischen Kreationen die immer fortgeführt werden. Der Schutzring um alles was aus dem Sündnebel kommt Fernzuhalten. Dabei ist es das Böses mit Bösen bekämpft wird der Außenbereich ist Gefährlich 
 
