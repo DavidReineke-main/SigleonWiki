@@ -5,8 +5,6 @@ published: true
 ---
 
 ```
-Bezirke
-
 Osthalt
 Nordheim
 Südhain
