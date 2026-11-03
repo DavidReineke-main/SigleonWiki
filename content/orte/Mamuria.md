@@ -16,11 +16,12 @@ Manar Ureos
 
 Orts Beschreibung
 
-Weit entfernt von den anderen Säulen und anderen Gegebenheiten steht D
-Erschaffen durch die Zwerge steht Mamuria die Säule in der Mitte von Oran. Die Säule führt hinauf in Norau. Dieser Ort ist reich an spiziellen Gestein Arten welche abgetragen werden.
+Weit entfernt von den anderen Säulen und anderen Gegebenheiten steht die Säule weit entfernt und in einem viel heißeren Gebiet. Es ist allein erreichbar durch das Portal Calsia das in Kalypspass steht.
+
+Erschaffen durch die Zwerge steht Mamuria die Säule in der Mitte von Oran. Die Säule führt hinauf nach La´Ven. Dieser Ort ist reich an heißen Magma Feldern die über das ganze Gebiet verstreut sind.
 
 Manar Ureos
-Der Weg hinauf durch Mamuria. Die [[Zwerge]] erheben Zoll für das Passieren ihres Gebietes. Außer du verwendest die Wendeltreppe die im inneren hinaufführt. Dieser Alte Weg wird heute zu Tage nicht mehr verwendet.
+Der Weg hinauf. Die [[Zwerge]]. Im inneren der Säule findet ein vielzahl an leben Statt  Wendeltreppe die im inneren hinaufführt. Dieser Alte Weg wird heute zu Tage nicht mehr verwendet.
 Der Transport wird nun durch eine Steinplatte die sich Entlang der Magischen Steinrunen entlangbewegt. Wurde gemeißelt durch die Hände [[Keilschlag]].  
 
 [[Obsidria]]
