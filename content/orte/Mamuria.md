@@ -16,7 +16,8 @@ Manar Ureos
 
 Orts Beschreibung
 
-Erschaffen durch die Zwerge steht Mamuria als eine Festung in der Mitte von Oran. Der Turm führt hinauf ins Weite Minenfelder der Zwerge. Dieser Ort ist reich an spiziellen Gestein Arten welche abgetragen werden.
+Weit entfernt von den anderen Säulen und anderen Gegebenheiten steht D
+Erschaffen durch die Zwerge steht Mamuria die Säule in der Mitte von Oran. Die Säule führt hinauf in Norau. Dieser Ort ist reich an spiziellen Gestein Arten welche abgetragen werden.
 
 Manar Ureos
 Der Weg hinauf durch Mamuria. Die [[Zwerge]] erheben Zoll für das Passieren ihres Gebietes. Außer du verwendest die Wendeltreppe die im inneren hinaufführt. Dieser Alte Weg wird heute zu Tage nicht mehr verwendet.
