@@ -13,7 +13,7 @@ Obsidria ist die Festung des Zwergentims. In seinem Hof wird die Macht unter 5 F
 
 Freie Fläche für freien Verstand. Den [[Zwerge]] ist es erlaubt das Gestein zu Zerstören. Mauern einzureißen Hand an den Stein zu legen. Andren Völkern ist dies nicht gestattet damit kein Schaden entsteht.
 
-Die Hämmer und Meißel sind die Bewaffnung der Zwerge. Sie haben [[Sigleon]] den Raum gegeben zu Leben. Zurückgezogen im Norija Säule haben sie die 
+Die Hämmer und Meißel sind die Bewaffnung der Zwerge. Sie haben [[Sigleon]] den Raum gegeben zu Leben. 
 
 ___
 
