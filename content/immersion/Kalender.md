@@ -12,7 +12,7 @@ published: true
 
 | Name der Zeit | Farbe Norija |
 | ------------- | ------------ |
-| stunden       | Türkis       |
+|               | Türkis       |
 | Rubinstunden  | Rot          |
 | Nullstunden   | Schwarz      |
 | Fernstunden   | Blau         |
