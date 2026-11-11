@@ -17,14 +17,24 @@ published: true
 
 ____
 
+Monate
+
 Jedes Areal hat den Auftrag einem Quartal Veranstalter für den Rest des Volkes zu sein.
 In dieser Zeit sollen sie sich um Erholung und Wohltun der Stadt und der Bewohner sorgen etwas von ihren Werken und Ressourcen der Stadt spenden. Allgemein werden verschiedene Festtage veranstaltet und verschiedene Zeremonien die abgehalten werden. 
 
 Die Zählung des Kalenders auf diese Weise beginnt mit WZ 0
 
+Nach den 9 Monaten wird ein Neuer Werk Zyklus gezählt.
+
+Wir schreiben den Werk Zyklus 1977
+
+Ab dem Werk Zyklus 0 wurde die Kalenderzählung auf diese Weise eingeführt.
+___
+
 1 Monat
 2 Region zuständig als Veranstalter Festtage
 3 Festtage
+
 ___
 1Vyruh (1-28).01
 2[[Calypspass]]
@@ -45,7 +55,7 @@ Klang der Pfade
 Lieder Gesang 
 
 Ambrossia 
-Sauffest
+Tavernenschenke
 ___
 Cytnaar (1-28).03
 [[Katalos]]
@@ -98,8 +108,3 @@ Kammerfest
 Offentage
 
 ___
-Nach den 9 Monaten wird ein Neuer Werk Zyklus gezählt.
-
-Wir schreiben den Werk Zyklus 1977
-
-Ab dem Werk Zyklus 0 wurde die Kalenderzählung auf diese Weise eingeführt.
