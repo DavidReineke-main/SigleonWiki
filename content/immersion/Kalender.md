@@ -7,13 +7,13 @@ published: true
 | Name der Zeit   | Farbe Norija |
 | --------------- | ------------ |
 | Schleierstunden | Lila         |
-| Rubinstunden    | Orange       |
+| stunden         | Orange       |
 | Tharliststunden | Grün         |
 
 | Name der Zeit | Farbe Norija |
 | ------------- | ------------ |
-| tunden        | Türkis       |
-| Rivalstunden  | Rot          |
+| stunden       | Türkis       |
+| Rubinstunden  | Rot          |
 | Nullstunden   | Schwarz      |
 | Fernstunden   | Blau         |
 
