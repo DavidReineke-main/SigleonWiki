@@ -15,8 +15,6 @@ published: true
 | Sonntag    | Fernstunden     | Blau         |
 
 
-
-
 ____
 
 Jedes Areal hat den Auftrag einem Quartal Veranstalter für den Rest des Volkes zu sein.
