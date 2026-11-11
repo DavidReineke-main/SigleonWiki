@@ -99,6 +99,7 @@ Arka (1-28).08
 Schimmernacht
 Das Seelenlicht durchflutet die Umgebung zu gegebener Zeit. Dadurch stehen viele Geister erweckt. Es werden lichter ausgesendet um den Toten den Weg zu weisen durch das Nirvana das sie die Freiheit erleben hinter den Nebel zu blicken. Etwas im Tod zu finden was uns als Lebenden verwehrt wird. 
 
+
 ___
 Terla (1-28).09
 [[Izenfest]]
