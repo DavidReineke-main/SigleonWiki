@@ -7,7 +7,7 @@ published: true
 | Name der Zeit   | Farbe Norija |
 | --------------- | ------------ |
 | Schleierstunden | Lila         |
-| stunden         | Orange       |
+| Dämmerstunden   | Orange       |
 | Tharliststunden | Grün         |
 
 | Name der Zeit | Farbe Norija |
