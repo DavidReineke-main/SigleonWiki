@@ -15,7 +15,7 @@ published: true
 | Sonntag    | Grimmstunden       | Rosa                     | Nordosten  |
 | ---        | Sternstunden       | Blau                     | Südwesten  |
 
-Am Horizont ist Norija zu gegebener Tageszeit mit verschiedenen Lichterfarben zu sehen.
+Am Horizont ist Norija zu gegebener Stunden mit verschiedenen Lichterfarbe zu sehen. 
 
 ____
 
