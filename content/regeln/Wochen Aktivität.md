@@ -54,7 +54,7 @@ und die Kreaturen die darin leben. Du kannst neue Routen entdecken. Die Bewegung
 Wenn du Kundschaftest erhältst du Ressourcen aus dem Gebiet in welches du Fuß setzt. 
 
 
-==Forschung==
+==Nachforschungen==
 
 Wechsel einen der dir möglichen Zauber oder Zaubertricks
 
@@ -98,7 +98,7 @@ Deine Aktivität erfordert Körperliche Anstrengung was folgende Effekte für di
 (Ein Levelaufstieg wird auch durch Meilensteine erreicht. Levelaufstieg durch Meilenstein resettet nicht dein Trainingseinheiten)
 
 
-==Soziale Interaktionen==
+==Soziales==
 
 Wechsel eine Fertigkeit mit einer anderen Fertigkeit.
 
