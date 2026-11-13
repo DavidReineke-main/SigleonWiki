@@ -15,7 +15,7 @@ published: true
 | Sonntag    | Grimmstunden       | Rosa                     | Nordosten  |
 | ---        | Sternstunden       | Blau                     | Südwesten  |
 
-Am Horizont ist Norija zu gegebener Stunden mit verschiedenen Lichterfarbe zu sehen. Während dieser Zeit ist  
+Am Horizont ist [[Norija]] zu gegebener Stunden mit verschiedenen Lichterfarbe zu sehen. Während dieser Zeit ist Siegleon und die Umgebung in entsprechenden Licht gehüllt. Norija Verbirgt sich für einen Großteil der Zeit. Steigt sie am Horizont auf wird es als Siegelzyklus bezeichnet. Steigt sie am Horrizont ab wird es als 
 
 ____
 
