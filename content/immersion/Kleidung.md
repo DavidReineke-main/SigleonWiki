@@ -8,8 +8,8 @@ published: true
 
 Pilzkappen werden sorgfältig abgeschabt.
 untere Schichten nutzen diesen um Leibkleidung herzustellen, Farbe je nach Schicht alles Gräulich,
-Grün, Braun oder Lila
-(leicht erkenntlich Herkunft von Personen zu erkennen)
+mit leichten Farbnouncen
+(erkennung Herkunft der Kleidung Gebiet)
 
 Kleidung zerfällt schnell benötigt kontinuierlich Reparatur
 
