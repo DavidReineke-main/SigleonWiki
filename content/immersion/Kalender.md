@@ -112,6 +112,4 @@ Ofentage
 
 Weftstage
 
-
-
 ___
