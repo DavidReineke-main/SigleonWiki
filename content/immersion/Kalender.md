@@ -4,16 +4,16 @@ tags:
 published: true
 ---
 
-| Wochentag  | Bennenung der Zeit | Farbe Norija | Umlaufbahn |
-| ---------- | ------------------ | ------------ | ---------- |
-| Montag     | Schleierstunden    | Lila         | Norden     |
-| Dienstag   | Dämmerstunden      | Orange       | Süden      |
-| Mittwoch   | Tharliststunden    | Grün         | Nordwesten |
-| Donnerstag | Lichtstunden       | Gelb         | Südosten   |
-| Freitag    | Rubinstunden       | Rot          | Westen     |
-| Samstag    | Nullstunden        | Schwarz      | Osten      |
-| Sonntag    | Fernstunden        | Rosa         | Nordosten  |
-| ---        | stunden            | Blau         | Südwesten  |
+| Wochentag  | Bennenung der Zeit | Farbe Norija             | Umlaufbahn |
+| ---------- | ------------------ | ------------------------ | ---------- |
+| Montag     | Schleierstunden    | Lila                     | Norden     |
+| Dienstag   | Dämmerstunden      | Orange                   | Süden      |
+| Mittwoch   | Tharliststunden    | Grün                     | Nordwesten |
+| Donnerstag | Lichtstunden       | Gelb                     | Südosten   |
+| Freitag    | Rubinstunden       | Rot                      | Westen     |
+| Samstag    | Nullstunden        | Schwarz (nicht zu sehen) | Osten      |
+| Sonntag    | Fernstunden        | Rosa                     | Nordosten  |
+| ---        | Sternstunden       | Blau                     | Südwesten  |
 
 Am Horizont ist Norija zu gegebener Tageszeit mit verschiedenen Lichterfarben zu sehen.
 
