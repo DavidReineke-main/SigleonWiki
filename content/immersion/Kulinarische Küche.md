@@ -64,7 +64,6 @@ Pirza
 Räuscher Flisch Brot
 Capanari Reis
 
-
 Nachspeise
 Sanddüne
 Marfpfelkuchen
@@ -72,7 +71,7 @@ Marfpfelkuchen
 ___
 Fundort von Nahrung
 
-Hexflur
+Kry Pfahl
 Himmelsobst
 
 Herdel
