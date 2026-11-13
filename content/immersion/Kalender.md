@@ -12,7 +12,8 @@ published: true
 | Donnerstag | Lichtstunden       | Gelb         | Südosten   |
 | Freitag    | Rubinstunden       | Rot          | Westen     |
 | Samstag    | Nullstunden        | Schwarz      | Osten      |
-| Sonntag    | Fernstunden        | Blau         | Nordosten  |
+| Sonntag    | Fernstunden        |              | Nordosten  |
+| ---        | Illusionstunden    | Blau         |            |
 
 
 ____
