@@ -12,7 +12,7 @@ published: true
 | Donnerstag | Lichtstunden       | Gelb                     | Südosten   |
 | Freitag    | Rubinstunden       | Rot                      | Westen     |
 | Samstag    | Nullstunden        | Schwarz (nicht zu sehen) | Osten      |
-| Sonntag    | Fernstunden        | Rosa                     | Nordosten  |
+| Sonntag    | Grimmstunden       | Rosa                     | Nordosten  |
 | ---        | Sternstunden       | Blau                     | Südwesten  |
 
 Am Horizont ist Norija zu gegebener Tageszeit mit verschiedenen Lichterfarben zu sehen.
