@@ -4,15 +4,15 @@ tags:
 published: true
 ---
 
-| Wochentag  | Name der Zeit   | Farbe Norija |
-| ---------- | --------------- | ------------ |
-| Montag     | Schleierstunden | Lila         |
-| Dienstag   | Dämmerstunden   | Orange       |
-| Mittwoch   | Tharliststunden | Grün         |
-| Donnerstag | Lichtstunden    | Gelb         |
-| Freitag    | Rubinstunden    | Rot          |
-| Samstag    | Nullstunden     | Schwarz      |
-| Sonntag    | Fernstunden     | Blau         |
+| Wochentag  | Name der Zeit   | Farbe Norija |     |
+| ---------- | --------------- | ------------ | --- |
+| Montag     | Schleierstunden | Lila         |     |
+| Dienstag   | Dämmerstunden   | Orange       |     |
+| Mittwoch   | Tharliststunden | Grün         |     |
+| Donnerstag | Lichtstunden    |              |     |
+| Freitag    | Rubinstunden    | Rot          |     |
+| Samstag    | Nullstunden     | Schwarz      |     |
+| Sonntag    | Fernstunden     | Blau         |     |
 
 
 ____
