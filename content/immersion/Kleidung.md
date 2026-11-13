@@ -23,8 +23,6 @@ Wechselpilz= Alles gleiche Art von Pilz nur verschiedene Reaktion. Geschulte Die
 
 ___
 Kleidungsstil variiert zwischen den Gebieten.
-[[Sündnebel]]
-Lederpilz / Schlicht keine besonderen Merkmale. Großes Stück Leder verwertet. Meistens Untergewand. Stickereien um wieder zu fixen. erzählen Geschichten über die Person. Wie das entstanden ist oder andere Symbolik die sie in Auftrag geben.
 
 [[Katalos]]
 1400-1600 Jahrhundert. Leinenhemden, Lederriemen. Kleider sind lang haben nähte vorne. Korsetts werden getragen. Viele aufgestickte Muster. Muster fallen je nach Produktion unter zwei Händler
@@ -52,3 +50,5 @@ Zeremonielle Kleidung größten teils verpflichtend.
 
 [[Izenfest]]
 Arbeitsklamotten, Latzhosen, Felle, Schutz gegen Kälte
+
+Lederpilz / Schlicht keine besonderen Merkmale. Großes Stück Leder verwertet. Meistens Untergewand. Stickereien um wieder zu fixen. erzählen Geschichten über die Person. Wie das entstanden ist oder andere Symbolik die sie in Auftrag geben.
