@@ -13,7 +13,7 @@ published: true
 | Freitag    | Rubinstunden       | Rot          | Westen     |
 | Samstag    | Nullstunden        | Schwarz      | Osten      |
 | Sonntag    | Fernstunden        | Rosa         | Nordosten  |
-| ---        | Illurstunden       | Blau         |            |
+| ---        | Illurstunden       | Blau         | Südwesten  |
 
 
 ____
