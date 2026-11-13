@@ -41,7 +41,7 @@ Kaffee
 Tee: Zarpfentee, Marpfeltee, Dorntee, 
 
 Saft / Limo
-Marenblausaft, Marendero, Bris Fizz, Marpfelsaft
+Marenblausaft, Marendero, Frux Friz, Marpfelsaft
 
 Cocktails: Marenero
 
