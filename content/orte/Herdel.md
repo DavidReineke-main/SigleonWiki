@@ -20,11 +20,8 @@ Dieses Areal ist Anbaufläche und Versorgung der Stadt mit Essen. Tierzucht und 
 Dieses Areal ist geschützte Natur die weite Flächen von Feldern und Sicherheitszonen der Bestien besteht. Der Lebensraum wird erhalten und kontrolliert.
 Der Ort war wohl einst die Säule auf die auch Hexflur gegründet war doch nun zerbrochen schwimmen die die Felsbrocken auf der Nebelschicht welche zum natürlichen Umfeld der Nebelsegler gehört.
 
-Farmersdorf
-Das Gebiet und die Felder sind aufgeteilt durch Landesherren die sich weiter expandieren und immer mehr Gebiet kaufen kleine Farmen auf und machen sie sich Untertan. Ihre Häuser beherbergen sie das Volk, geben Essen einen Schlafplatz und Arbeit versorgen.
+Kultur
 
-Ebland
-Inseln die weit der Zivilisation sind und keine direkte Anbindungsroute haben, nur mit Nebelsegeler zu erreichen. Ein Ruhiger Ort weit entfernt von der Stadt.
 
-Goblia
-Die Goblins haben sich eine eigene kleine Nation aufgebaut und einen eigenen Handel. Sie entdeckten und beherbergen das magische Holz [[Arka brim kaden]]. Ist magisch welcher das schwimmen der Inseln verstärkt Baum der wenn er groß genug ist die Landmasse auf die er sitzt anhebt und hinauf steigt. Goblia hat sich daraus Luftschiffe erbaut und hat die Bäume alles Samt in Beschlag genommen. Gibt diese nur limitiert auf den Markt.
+
+
