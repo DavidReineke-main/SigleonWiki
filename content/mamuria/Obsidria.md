@@ -1,7 +1,6 @@
 ---
 published: true
 tags:
-  - Orte
   - Mamuria
 ---
 Obsidria ist die Festung des Zwergentums. In seinem Hof wird die Macht unter 5 Familien geteilt jede dieser Familien brachte Fortschritt zu der Zwergentums. Jeder Zwerg sieht sich zugehörig einer dieser Familienstränge.
