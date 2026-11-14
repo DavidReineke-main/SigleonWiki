@@ -1,6 +1,5 @@
 ---
 tags:
-  - Immersion
 published: true
 ---
 
