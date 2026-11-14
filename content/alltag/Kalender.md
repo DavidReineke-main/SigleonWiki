@@ -1,0 +1,112 @@
+---
+tags:
+  - Alltag
+published: true
+---
+
+| Wochentag  | Bennenung der Zeit | Farbe Norija             | Umlaufbahn |
+| ---------- | ------------------ | ------------------------ | ---------- |
+| Montag     | Schleierstunden    | Lila                     | Norden     |
+| Dienstag   | Dämmerstunden      | Orange                   | Süden      |
+| Mittwoch   | Tharliststunden    | Grün                     | Nordwesten |
+| Donnerstag | Lichtstunden       | Gelb                     | Südosten   |
+| Freitag    | Rubinstunden       | Rot                      | Westen     |
+| Samstag    | Nullstunden        | Schwarz (nicht zu sehen) | Osten      |
+| Sonntag    | Grimmstunden       | Rosa                     | Nordosten  |
+| ---        | Sternstunden       | Blau                     | Südwesten  |
+
+Am Horizont ist [[Norija]] zu gegebener Stunden mit verschiedenen Lichterfarbe zu sehen. Während dieser Zeit ist Siegleon und die Umgebung in entsprechenden Licht gehüllt. Norija Verbirgt sich für einen Großteil der Zeit. Man unterscheidet die Stunden (Tag) = [[Siegelzyklus]] und (Nacht) = [[Verbannungzyklus]].
+
+____
+
+Monate
+
+Jedes Areal hat den Auftrag einem Quartal Veranstalter für den Rest des Volkes zu sein.
+In dieser Zeit sollen sie sich um Erholung und Wohltun der Stadt und der Bewohner sorgen etwas von ihren Werken und Ressourcen der Stadt spenden. Allgemein werden verschiedene Festtage veranstaltet und verschiedene Zeremonien die abgehalten werden. 
+
+Die Zählung des Kalenders auf diese Weise beginnt mit WZ 0
+
+Nach den 9 Monaten wird ein Neuer Werk Zyklus gezählt.
+
+Wir schreiben den Werk Zyklus 1977
+
+Ab dem Werk Zyklus 0 wurde die Kalenderzählung auf diese Weise eingeführt.
+___
+
+1 Monat
+2 Region zuständig als Veranstalter Festtage
+3 Festtage
+
+___
+1Vyruh (1-32).01
+2[[Calypspass]]
+
+3Feiertage
+Schriftmeer
+Rekapitulieren von Informationen über die Verborgenen. Was an Geschichte geblieben ist oder neu entdeckt wurden.
+
+Verbannungstag 
+Lehren über unseren Weg
+Geschichte Ausrichtung der Stadt Weisung des richtigen Weges
+
+___
+Hersa (1-32).02
+[[Mamuria]]
+
+Klang der Pfade
+Lieder Gesang 
+
+Ambrossia 
+Tavernenschenke
+___
+Cytnaar (1-32).03
+[[Katalos]]
+
+
+
+
+___
+Mazken (1-32).04
+[[Kry Pfahl]]
+verschwinde nun kehre wieder mit mehr
+Feen Feiertag. Verstecke etwas von dir bei einen Freund. Tasche, Haus. Er muss herausfinden von wem das Geschenk kommt.
+
+___
+Faron (1-32).05
+[[Oran]] 
+
+Norija Fest Stunden
+Licht empfangen auf einer Sonnenscheibe.
+
+___
+Nirva (1-32).06
+[[Sündnebel]]
+
+Der Zyklus bedingt das Nirvana sich weit ausbreitet und die Stadt noch mehr in Gefahr steht. Weshalb viele Sicherheitsmaßnahmen ergriffen werden und [[Sündnebel/Nebura]] vermehrt gesponsert werden. 
+
+Ehr Nebura
+Auszeichnung für Nebeltaucher für Erfolge den Nirvana zu erforschen. Erhalten ein Werk spizelle angefertigt aus dem [[Haus Osèari]] 
+
+____
+Uräon (1-32).07 
+[[Herdel]]
+
+___
+Arka (1-32).08
+[[Hexflur]]
+
+Schimmernacht
+Das Seelenlicht durchflutet die Umgebung zu gegebener Zeit. Dadurch stehen viele Geister erweckt. Es werden lichter ausgesendet um den Toten den Weg zu weisen durch das Nirvana das sie die Freiheit erleben hinter den Nebel zu blicken. Etwas im Tod zu finden was uns als Lebenden verwehrt wird. 
+
+
+___
+Terla (1-32).09
+[[Izenfest]]
+
+Kammerfest
+
+Ofentage
+
+Weftstage
+
+___
