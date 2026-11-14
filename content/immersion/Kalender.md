@@ -67,7 +67,7 @@ Cytnaar (1-32).03
 
 ___
 Mazken (1-32).04
-[[Herdel]]
+[[Kry Pfahl]]
 verschwinde nun kehre wieder mit mehr
 Feen Feiertag. Verstecke etwas von dir bei einen Freund. Tasche, Haus. Er muss herausfinden von wem das Geschenk kommt.
 
@@ -89,10 +89,7 @@ Auszeichnung für Nebeltaucher für Erfolge den Nirvana zu erforschen. Erhalten 
 
 ____
 Uräon (1-32).07 
-[[Kry Pfahl]]
-
-Seelenlicht Gala
-Prominente und Adel aus ganz Sigleon verkünden neue Erfolge oder Projekte die Unterstützung benötigen und ein Netzwerk aufbauen.
+[[Herdel]]
 
 ___
 Arka (1-32).08
