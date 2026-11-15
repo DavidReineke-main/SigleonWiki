@@ -22,7 +22,7 @@ Erschaffen durch die Zwerge steht Mamuria die Säule in der Mitte von Oran. Die 
 
 
 
-[[Fraktionen/Gilde/Obsidria]]
+[[Obsidria 2]]
 Ist die Festung des Zwergentum Mamurias. Der Klan der Zwerge hat hier seinen Sitz und haben damit den Sitz eines eigenen Reiches welches abgesondert von den Anderen Arealen agiert.
 
 
