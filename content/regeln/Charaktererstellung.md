@@ -17,15 +17,13 @@ Was ist deine Ambition deine Träume. Je nach Ausrichtung wird dich Geschichtlic
 -Charakter hat eine Zentrale Thematik, mit der er sich beschäftigt. Eine Klare Ausrichtung was den Charakter ausmacht. „Stumpf ist Trumpf“ Denkt nicht zu kompliziert, sondern finde etwas was dich fasziniert und versuche das so gut wie möglich dem zu verschreiben.
 
 
-==Fragen die ihr euch stellen könnt==
+==Fragen um sich in Charakter reinzuversetzen==
 
 Was hat er erlebt
 
 Was macht ihn besonders
 
 Welcher Idee läuft er hinterher die ihm schadet
-
-Was würde er niemals machen
 
 woran richtet er seine Moral
 
@@ -35,9 +33,10 @@ Was macht er wenn er alleine Zuhause ist
 
 Wem will er nahe sein von wem will er sich distanzieren
 
-==Spieltipp==
 
--Was brauchen du um zu erreichen was du willst
+==Spieltipp beim aktiven spielen==
+
+-Was brauchst du um zu erreichen was du willst (Habe ein Ziel vor Augen welches poten auch nicht mit der Spielergruppe kompatibel ist)
 
 -Was ist eine Grenze die du niemals übertreten würdest
 
