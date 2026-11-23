@@ -15,3 +15,26 @@ Wie sieht dein Zuhause aus bist du allein, oder kämpfst du um eine Familie zu e
 Was ist deine Ambition deine Träume. Je nach Ausrichtung wird dich Geschichtlich weiter vorantreiben.
 
 -Charakter hat eine Zentrale Thematik, mit der er sich beschäftigt. Eine Klare Ausrichtung was den Charakter ausmacht. „Stumpf ist Trumpf“ Denkt nicht zu kompliziert, sondern finde etwas was dich fasziniert und versuche das so gut wie möglich dem zu verschreiben.
+
+
+==Fragen die ihr euch stellen könnt==
+
+Was hat er erlebt
+
+Was macht ihn besonders
+
+Welcher Idee läuft er hinterher die ihm schadet
+
+Was will er erreichen
+
+Was würde er niemals machen
+
+Wovor fürchtet er sich
+
+woran richtet er seine Moral
+
+Was ist ihm wichtig 
+
+Was macht er wenn er alleine Zuhause ist
+
+Wem will er nahe sein von wem will er sich distanzieren
