@@ -29,8 +29,6 @@ Was will er erreichen
 
 Was würde er niemals machen
 
-Wovor fürchtet er sich
-
 woran richtet er seine Moral
 
 Was ist ihm wichtig 
@@ -38,3 +36,11 @@ Was ist ihm wichtig
 Was macht er wenn er alleine Zuhause ist
 
 Wem will er nahe sein von wem will er sich distanzieren
+
+==Spieltipp==
+
+-Was brauchen er/sie um zu erreichen was sie wollen
+
+-Was ist eine Grenze die er/sie niemals übertreten würden
+
+-Wovor fürchtet er/sie sich
