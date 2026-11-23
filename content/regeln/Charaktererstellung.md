@@ -25,8 +25,6 @@ Was macht ihn besonders
 
 Welcher Idee läuft er hinterher die ihm schadet
 
-Was will er erreichen
-
 Was würde er niemals machen
 
 woran richtet er seine Moral
@@ -39,8 +37,8 @@ Wem will er nahe sein von wem will er sich distanzieren
 
 ==Spieltipp==
 
--Was brauchen er/sie um zu erreichen was sie wollen
+-Was brauchen du um zu erreichen was du willst
 
--Was ist eine Grenze die er/sie niemals übertreten würden
+-Was ist eine Grenze die du niemals übertreten würdest
 
--Wovor fürchtet er/sie sich
+-Wovor fürchtet du dich
