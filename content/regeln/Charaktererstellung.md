@@ -14,6 +14,8 @@ Wie sieht dein Zuhause aus bist du allein, oder kämpfst du um eine Familie zu e
 
 Was ist deine Ambition deine Träume. Je nach Ausrichtung wird dich Geschichtlich weiter vorantreiben.
 
+Wie sieht dein Alltag aus was machst du in der Woche, hast du ein Lieblingscafe, Fährst du mit der Bahn zu deiner Arbeit. Besuchst du Familie regelmäßig, hast du schulden abzubezahlen. Hast du ein Kranken Freund bei dem du dich aktive melden musst. Was ist dein Leibgericht. Diese Dinge werden in der [[Wochen Aktivität]] zentral zu tragen kommen.
+
 -Charakter hat eine Zentrale Thematik, mit der er sich beschäftigt. Eine Klare Ausrichtung was den Charakter ausmacht. „Stumpf ist Trumpf“ Denkt nicht zu kompliziert, sondern finde etwas was dich fasziniert und versuche das so gut wie möglich dem zu verschreiben.
 
 
@@ -36,8 +38,8 @@ Wem will er nahe sein von wem will er sich distanzieren
 
 ==Spieltipp beim aktiven spielen==
 
--Was brauchst du um zu erreichen was du willst (Habe ein Ziel vor Augen welches poten auch nicht mit der Spielergruppe kompatibel ist)
+-Was brauchst du um zu erreichen was du willst (Habe ein Ziel vor Augen welches potentiel auch nicht mit der Spielergruppe kompatibel ist)
 
--Was ist eine Grenze die du niemals übertreten würdest
+-Was ist eine Grenze die du niemals übertreten würdest (Wobei machst du mit und wo ziehst du dich zurück)
 
--Wovor fürchtet du dich
+-Wovor fürchtet du dich (Was sind Emotionen, Komplikationen die deinen Charakter zurückhalten)
